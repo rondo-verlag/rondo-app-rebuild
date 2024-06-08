@@ -968,9 +968,9 @@
   resolved "https://registry.npmjs.org/@capacitor/app/-/app-6.0.0.tgz"
   integrity sha512-X5UGd90Jh5p9rmoPyMqFyFWqOypdJgVJhYcM5X1YyDVJJGzmJ5MuYv1+ajj5DW9Qyh+5a3th9WYptdGby8jidA==
 
-"@capacitor/cli@6.0.0":
+"@capacitor/cli@^6.0.0":
   version "6.0.0"
-  resolved "https://registry.npmjs.org/@capacitor/cli/-/cli-6.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/@capacitor/cli/-/cli-6.0.0.tgz#78def1dcf8a0addd10039edf32ed15b5a0f0b1aa"
   integrity sha512-6z30P0mr53l0VXPwFjzDVuKIt1991bqUSSfShTT2efWN+rBSGSAH2bPID6qSZornH1n5R5Lh/UHq/aGuW523MQ==
   dependencies:
     "@ionic/cli-framework-output" "^2.2.5"
@@ -992,9 +992,9 @@
     tslib "^2.4.0"
     xml2js "^0.5.0"
 
-"@capacitor/core@6.0.0":
+"@capacitor/core@^6.0.0":
   version "6.0.0"
-  resolved "https://registry.npmjs.org/@capacitor/core/-/core-6.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/@capacitor/core/-/core-6.0.0.tgz#abfaf1013cec686cf9743cf4fdc445d10e2f13ea"
   integrity sha512-NvxIQsJcMiIV+Le1DilR2GGyQQbDInfXK1UywGROQ5mycdFlW5XoAPZ+MKnFGB123RoEgE3uhDGgwTXUmSlX9A==
   dependencies:
     tslib "^2.1.0"
@@ -1365,16 +1365,16 @@
     untildify "^4.0.0"
     wrap-ansi "^7.0.0"
 
-"@ionic/vue-router@^8.0.0":
+"@ionic/vue-router@^8.2.1":
   version "8.2.1"
-  resolved "https://registry.npmjs.org/@ionic/vue-router/-/vue-router-8.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/@ionic/vue-router/-/vue-router-8.2.1.tgz#57384df0e19f83fc5103f06f427b72fd2a8b1604"
   integrity sha512-61++7ceTBECFRk/W2T+FyXbHM+c+3ZlWl0yJgHqwO48oqdXppKr9AbREt08xJR1Fjqm7GgLdbTkUNSnJE3PCAg==
   dependencies:
     "@ionic/vue" "8.2.1"
 
-"@ionic/vue@8.2.1", "@ionic/vue@^8.0.0":
+"@ionic/vue@8.2.1", "@ionic/vue@^8.2.1":
   version "8.2.1"
-  resolved "https://registry.npmjs.org/@ionic/vue/-/vue-8.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/@ionic/vue/-/vue-8.2.1.tgz#a3a9e8d010b0e22295a125917b204121e99e2bb1"
   integrity sha512-rMg8LhWUgRYCFU7+tJOzP9Cfxm5k9YqE1pWPyuf8RtvZ8WnaTNx1D5TQK2/RV63kwukyS5zM3eM6M9iWkoHJQw==
   dependencies:
     "@ionic/core" "8.2.1"
@@ -4872,9 +4872,9 @@ vue-eslint-parser@^9.3.1, vue-eslint-parser@^9.4.2:
     lodash "^4.17.21"
     semver "^7.3.6"
 
-vue-router@^4.2.0:
+vue-router@^4.3.2:
   version "4.3.2"
-  resolved "https://registry.npmjs.org/vue-router/-/vue-router-4.3.2.tgz"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.3.2.tgz#08096c7765dacc6832f58e35f7a081a8b34116a7"
   integrity sha512-hKQJ1vDAZ5LVkKEnHhmm1f9pMiWIBNGF5AwU67PdH7TyXCj/a4hTccuUuYCAMgJK6rO/NVYtQIEN3yL8CECa7Q==
   dependencies:
     "@vue/devtools-api" "^6.5.1"
@@ -4896,9 +4896,9 @@ vue-tsc@^1.0.24:
     "@vue/language-core" "1.8.27"
     semver "^7.5.4"
 
-vue@^3.3.0:
+vue@^3.4.27:
   version "3.4.27"
-  resolved "https://registry.npmjs.org/vue/-/vue-3.4.27.tgz"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-3.4.27.tgz#40b7d929d3e53f427f7f5945386234d2854cc2a1"
   integrity sha512-8s/56uK6r01r1icG/aEOHqyMVxd1bkYcSe9j8HcKtr/xTOFWvnzIVTehNW+5Yt89f+DLBe4A569pnZLS5HzAMA==
   dependencies:
     "@vue/compiler-dom" "3.4.27"
