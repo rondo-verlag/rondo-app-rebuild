@@ -1,7 +1,8 @@
 {
-  "name": "rondo-app-rebuild",
+  "name": "songbook-app",
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue-vite"
+  "type": "vue-vite",
+  "id": "fff006c6"
 }

@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'rondo-app-rebuild',
+  appId: 'ch.rondo.songbookapp',
+  appName: 'songbook-app',
   webDir: 'dist'
 };
 
