@@ -1,0 +1,7 @@
+{
+  "name": "rondo-app-rebuild",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
