@@ -29,10 +29,10 @@ import '@ionic/vue/css/display.css';
 
 /* @import '@ionic/vue/css/palettes/dark.always.css'; */
 /* @import '@ionic/vue/css/palettes/dark.class.css'; */
-import '@ionic/vue/css/palettes/dark.system.css';
+//import '@ionic/vue/css/palettes/dark.system.css';
 
 /* Theme variables */
-import './theme/variables.css';
+//import './theme/variables.css';
 
 /* import rondo styles */
 // import './theme/rondo-icons.css';
@@ -45,7 +45,7 @@ import { StatusBar, Style } from '@capacitor/status-bar';
 const app = createApp(App)
   .use(IonicVue)
   .use(router)
-    .provide('appVersion', packageJson.version);
+  .provide('appVersion', packageJson.version);
 
 router.isReady().then(() => {
   app.mount('#app');
