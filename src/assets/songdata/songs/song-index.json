@@ -1,0 +1,5534 @@
+{
+    "slidesFree": [
+        201,
+        225,
+        226,
+        170,
+        174,
+        175,
+        230,
+        210,
+        231,
+        176,
+        173,
+        186,
+        229,
+        182,
+        189,
+        228,
+        188,
+        192,
+        177,
+        234,
+        233,
+        102,
+        155,
+        165,
+        41,
+        33,
+        21,
+        7,
+        43,
+        44,
+        142,
+        47,
+        126,
+        65,
+        85,
+        32,
+        120,
+        112,
+        64,
+        24,
+        154,
+        82,
+        15,
+        18,
+        38,
+        96,
+        72,
+        12,
+        26,
+        93,
+        99,
+        121,
+        100,
+        61,
+        98,
+        103,
+        87,
+        3,
+        94,
+        66,
+        156,
+        107,
+        56,
+        162,
+        16,
+        39,
+        53,
+        117,
+        59,
+        49,
+        1,
+        108,
+        86,
+        129,
+        62,
+        31,
+        127,
+        122,
+        71,
+        8,
+        42,
+        17,
+        9,
+        55
+    ],
+    "slidesPaid": [
+        224,
+        202,
+        201,
+        199,
+        225,
+        195,
+        226,
+        227,
+        170,
+        172,
+        174,
+        175,
+        230,
+        203,
+        204,
+        219,
+        218,
+        217,
+        215,
+        159,
+        210,
+        209,
+        208,
+        207,
+        206,
+        211,
+        205,
+        231,
+        176,
+        190,
+        173,
+        186,
+        180,
+        181,
+        229,
+        182,
+        235,
+        183,
+        185,
+        189,
+        228,
+        188,
+        194,
+        193,
+        192,
+        236,
+        191,
+        232,
+        177,
+        234,
+        179,
+        233,
+        102,
+        155,
+        165,
+        41,
+        33,
+        21,
+        7,
+        43,
+        44,
+        152,
+        161,
+        142,
+        47,
+        126,
+        37,
+        65,
+        85,
+        32,
+        35,
+        120,
+        112,
+        29,
+        10,
+        64,
+        24,
+        6,
+        84,
+        146,
+        167,
+        40,
+        154,
+        14,
+        4,
+        82,
+        48,
+        138,
+        15,
+        136,
+        18,
+        38,
+        96,
+        72,
+        12,
+        26,
+        93,
+        164,
+        99,
+        134,
+        121,
+        100,
+        61,
+        98,
+        140,
+        101,
+        11,
+        103,
+        13,
+        87,
+        30,
+        132,
+        105,
+        3,
+        94,
+        20,
+        66,
+        78,
+        156,
+        151,
+        69,
+        107,
+        56,
+        162,
+        83,
+        16,
+        68,
+        39,
+        53,
+        158,
+        28,
+        135,
+        169,
+        113,
+        36,
+        106,
+        54,
+        118,
+        128,
+        77,
+        19,
+        144,
+        117,
+        59,
+        163,
+        133,
+        116,
+        57,
+        131,
+        46,
+        34,
+        91,
+        153,
+        157,
+        60,
+        49,
+        1,
+        108,
+        86,
+        149,
+        129,
+        62,
+        70,
+        147,
+        79,
+        168,
+        74,
+        31,
+        23,
+        127,
+        25,
+        137,
+        111,
+        89,
+        73,
+        141,
+        110,
+        123,
+        122,
+        71,
+        8,
+        27,
+        42,
+        76,
+        80,
+        166,
+        150,
+        95,
+        90,
+        92,
+        17,
+        9,
+        104,
+        97,
+        88,
+        67,
+        55,
+        115,
+        148,
+        119
+    ],
+    "list": [
+        {
+            "id": 1,
+            "title": "500 MILES",
+            "pageRondoRed": null,
+            "pageRondoBlue": 103,
+            "pageRondoGreen": 186,
+            "pageRondo2017": 186,
+            "pageRondo2021": null,
+            "pageRondo2024": 186,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=B_K6z3HiRAs"
+            }
+        },
+        {
+            "id": 3,
+            "title": "ALL NIGHT, ALL DAY",
+            "pageRondoRed": 103,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 103,
+            "pageRondo2017": 102,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=6sDSYqAXjp0"
+            }
+        },
+        {
+            "id": 4,
+            "title": "ALL SUMMER LONG",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 52,
+            "pageRondo2017": 52,
+            "pageRondo2021": null,
+            "pageRondo2024": 52,
+            "interpret": "Kid Rock",
+            "chords": [
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "ALL SUMMER LONG (11,12 % Copyright)\nMusik und Text: Matthew Shafer \/ Edward King \/ Gary Rossington \/ Waddy Wachtel \/ Ronnie Van Zant \/ Warren Zevon \/ Leroy Marinell \/ Robert Ritchie\n\u00a9 Copyright by Leadsheet Land Music \/ Wixen Music Publishing Inc. \u2013 Ruminating Music \/ \u2026.\nSub: MELODIE DER WELT GmbH & Co. KG, Musikverlag, Frankfurt\/Main f\u00fcr Deutschland, \u00d6sterreich und Schweiz. \/ \u2026.\n\nAbdruck erfolgt mit freundlicher Genehmigung",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/aSkFygPCTwE?si=mUhs-881OQ0lY2lD"
+            }
+        },
+        {
+            "id": 23,
+            "title": "All the leaves are brown",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 210,
+            "pageRondo2017": 210,
+            "pageRondo2021": null,
+            "pageRondo2024": 210,
+            "interpret": "The Mamas And The Papas",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7",
+                "H7sus4"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Words and Music by John Phillips and Michelle Phillips \nCopyright \u00a9 1965 UNIVERSAL MUSIC CORP. Copyright Renewed \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited"
+        },
+        {
+            "id": 211,
+            "title": "ALLES NUR GEKLAUT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 120,
+            "pageRondo2024": 120,
+            "interpret": "Die Prinzen",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Tobias K\u00fcnzel \nCopyright \u00a9 1993 BMG Rights Management GmbH All Rights Administered by BMG Rights Management GmbH \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=yMR45cZbvDw"
+            }
+        },
+        {
+            "id": 131,
+            "title": "Almost heaven, West Virginia",
+            "pageRondoRed": 170,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 170,
+            "pageRondo2017": 170,
+            "pageRondo2021": null,
+            "pageRondo2024": 170,
+            "interpret": "John Denver",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Words and Music by John Denver, Bill Danoff and Taffy Nivert \nCopyright \u00a9 1971 BMG Ruby Songs and Reservoir Media Music \nCopyright Renewed All Rights for BMG Ruby Songs Administered by BMG Rights Management (US) LLC \nAll Rights for Reservoir Media Music Administered by Reservoir Media Management, Inc. All Rights Reserved Used by permission of Hal Leonard Europe Limited"
+        },
+        {
+            "id": 6,
+            "title": "ALPEROSE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 38,
+            "pageRondoGreen": 40,
+            "pageRondo2017": 40,
+            "pageRondo2021": 40,
+            "pageRondo2024": 40,
+            "interpret": "Polo Hofer",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Mit freundlicher Genehmigung XANGISCHXUNG",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=SR5sxe1IQUo"
+            }
+        },
+        {
+            "id": 7,
+            "title": "ALS DER VATER",
+            "pageRondoRed": 15,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 16,
+            "pageRondo2017": 16,
+            "pageRondo2021": null,
+            "pageRondo2024": 16,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 8,
+            "title": "AM M\u00c4NTIG",
+            "pageRondoRed": 233,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 233,
+            "pageRondo2017": 233,
+            "pageRondo2021": null,
+            "pageRondo2024": 233,
+            "interpret": "",
+            "chords": [
+                "A",
+                "D",
+                "E",
+                "E7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.google.com\/search?q=am+M%C3%A4ntig+gits+ch%C3%A4s+am+zischtig+gits+ch%C3%A4s+am+mittwuch+gits+gorgonzola&client=firefox-b-d&sca_esv=4311176b70626813&sca_upv=1&sxsrf=ACQVn08rS5s4eCpfTW7H7p_OohjrM5oMtQ%3A1712525434976&ei=ehATZsaOO_Pt7_UP_82iwAs&ved=0ahUKEwjGs-GxhrGFAxXz9rsIHf-mCLgQ4dUDCBA&uact=5&oq=am+M%C3%A4ntig+gits+ch%C3%A4s+am+zischtig+gits+ch%C3%A4s+am+mittwuch+gits+gorgonzola&gs_lp=Egxnd3Mtd2l6LXNlcnAiSGFtIE3DpG50aWcgZ2l0cyBjaMOkcyBhbSB6aXNjaHRpZyBnaXRzIGNow6RzIGFtIG1pdHR3dWNoIGdpdHMgZ29yZ29uem9sYUigYlCREVjfYHABeACQAQCYAYMBoAH9GqoBBTIwLjE1uAEDyAEA-AEBmAIWoALaEMICCxAAGIAEGKIEGLADwgILEAAYiQUYogQYsAPCAgcQIRgKGKABwgIIEAAYgAQYogTCAggQABiJBRiiBMICBBAhGBXCAgkQIRgKGKABGAqYAwCIBgGQBgWSBwUxMC4xMqAH8Hc&sclient=gws-wiz-serp#fpstate=ive&vld=cid:0733d489,vid:D7238cRNVpU,st:0"
+            }
+        },
+        {
+            "id": 9,
+            "title": "AM UFER VOM RHY",
+            "pageRondoRed": 123,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 255,
+            "pageRondo2017": 255,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "C7",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 10,
+            "title": "AN DEN UFERN DES MEXIKO RIVER",
+            "pageRondoRed": 36,
+            "pageRondoBlue": 95,
+            "pageRondoGreen": 36,
+            "pageRondo2017": 36,
+            "pageRondo2021": 36,
+            "pageRondo2024": 36,
+            "interpret": "Jakob Leutert und Peter Jeger",
+            "chords": [
+                "C",
+                "D7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik: amerikanische Volksweise Text: Jakob Leutert \/ Peter Jeger\n\u00a9 Edition Helbling AG, 8604 Volketswil",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=MRixSP8V44U"
+            }
+        },
+        {
+            "id": 204,
+            "title": "ANGELINA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 24,
+            "pageRondo2024": 54,
+            "interpret": "Dabu Fantastic",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Angelina\" - Dabu Fantastic\nMusik und Text: Dabu Fantastic\n\u00a9Gadget Records AG\/Capitano Music GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=I_I8HH2N_qQ"
+            }
+        },
+        {
+            "id": 11,
+            "title": "ANGIE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 88,
+            "pageRondo2017": 88,
+            "pageRondo2021": null,
+            "pageRondo2024": 88,
+            "interpret": "Rolling Stones; Mick Jagger and Keith Richards",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "ANGIE (Keith Richards\/Mick Jagger) \n\u00a9 Westminster Music Ltd\/Promopub BV",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/oWRr03VcA-0?si=fshGb1pJnGrfbvJy"
+            }
+        },
+        {
+            "id": 12,
+            "title": "APRITE LE PORTE",
+            "pageRondoRed": 68,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 68,
+            "pageRondo2017": 68,
+            "pageRondo2021": null,
+            "pageRondo2024": 68,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=wz5kHZzg8pk"
+            }
+        },
+        {
+            "id": 13,
+            "title": "AQUARIUS",
+            "pageRondoRed": null,
+            "pageRondoBlue": 90,
+            "pageRondoGreen": 92,
+            "pageRondo2017": 92,
+            "pageRondo2021": null,
+            "pageRondo2024": 92,
+            "interpret": "The 5th Dimension",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Dm",
+                "E7",
+                "Em",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words by James Rado and Gerome Ragni Music by Galt MacDermot \n\u00a9 Copyright 1966, 1967, 1968, 1970 Channel-H-Production Inc., USA\/EMI U Catalog EMI United Partnership Limited International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ISYwosO04fg"
+            }
+        },
+        {
+            "id": 14,
+            "title": "ARABISCH",
+            "pageRondoRed": null,
+            "pageRondoBlue": 50,
+            "pageRondoGreen": 50,
+            "pageRondo2017": 50,
+            "pageRondo2021": 50,
+            "pageRondo2024": null,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "Dm",
+                "E"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "aus Mani Matter: Warum syt dir so truurig? \u00a92011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=O9tzZ3CE-rM"
+            }
+        },
+        {
+            "id": 15,
+            "title": "ARCHE NOAH",
+            "pageRondoRed": 60,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 60,
+            "pageRondo2017": 60,
+            "pageRondo2021": null,
+            "pageRondo2024": 60,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Em",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/AWnxPfhqSMg?t=72"
+            }
+        },
+        {
+            "id": 215,
+            "title": "AUF UNS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 88,
+            "pageRondo2024": 80,
+            "interpret": "Andreas Bourani",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Andreas Bourani, Thomas Olbrich and Julius Hartog \nCopyright \u00a9 2014 BMG Rights Management GmbH, Lucky Fool Studio Andreas Bourani and Kassettendeck, Edition \nAll Rights Administered by BMG Rights Management GmbH \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=k9EYjn5f_nE"
+            }
+        },
+        {
+            "id": 16,
+            "title": "BAJUSCHKI BAJU",
+            "pageRondoRed": 124,
+            "pageRondoBlue": 158,
+            "pageRondoGreen": 123,
+            "pageRondo2017": 123,
+            "pageRondo2021": 123,
+            "pageRondo2024": 123,
+            "interpret": "Kinderlied",
+            "chords": [
+                "Am",
+                "C",
+                "E7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=L3Ug-UR9iDM"
+            }
+        },
+        {
+            "id": 17,
+            "title": "BANKS OF THE OHIO",
+            "pageRondoRed": 153,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 254,
+            "pageRondo2017": 254,
+            "pageRondo2021": null,
+            "pageRondo2024": 252,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=-LT5ZJGj5QA"
+            }
+        },
+        {
+            "id": 96,
+            "title": "BELLA CIAO",
+            "pageRondoRed": 65,
+            "pageRondoBlue": 70,
+            "pageRondoGreen": 65,
+            "pageRondo2017": 65,
+            "pageRondo2021": 65,
+            "pageRondo2024": 65,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "Am",
+                "Am7",
+                "Dm",
+                "E7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=4CI3lhyNKfo"
+            }
+        },
+        {
+            "id": 188,
+            "title": "BERCEUSE TCH\u00c8QUE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 135,
+            "pageRondo2024": 10,
+            "interpret": "Chanson scoute",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Rj3DOfZ0ZSM"
+            }
+        },
+        {
+            "id": 18,
+            "title": "BERESINALIED",
+            "pageRondoRed": 63,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 63,
+            "pageRondo2017": 63,
+            "pageRondo2021": null,
+            "pageRondo2024": 63,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "Am",
+                "C",
+                "D",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=KxnpHd0DldI"
+            }
+        },
+        {
+            "id": 234,
+            "title": "BERGE VERSETZE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 7,
+            "pageRondo2024": null,
+            "interpret": "BLAY (Bligg & Marc Sway)",
+            "chords": [
+                "A",
+                "Ab",
+                "Absus4-Db",
+                "Bm",
+                "Bm-Ab",
+                "Bm-Eb",
+                "Bm-Gb",
+                "Db",
+                "Dbsus2",
+                "F",
+                "F7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "\u00a9BLAY Ent. AG\n\nGemeinsam versetzen wir Berge - f\u00fcr eine bessere Zukunft.\nEine Zusammenarbeit von BLAY, Valais Wallis Promotion, Pfadibewegung Schweiz, mova und FMV.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=tqA82wgrBzs"
+            }
+        },
+        {
+            "id": 141,
+            "title": "BERGVAGABUNDEN (WENN WIR ERKLIMMEN)",
+            "pageRondoRed": 226,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 226,
+            "pageRondo2017": 226,
+            "pageRondo2021": 128,
+            "pageRondo2024": 226,
+            "interpret": "Hans Kolesa, Hans Gasser, Erich Hartinger",
+            "chords": [
+                "C",
+                "D7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "BERGVAGABUNDEN (Wenn wir erklimmen...)\nMusik: Hans Kolesa & Hans Gasser\nText: Erich Hartinger\n\u00a9 1956 by EBERLE VERLAG, A-1190 Wien\nDer Abdruck erfolgt mit freundlicher Genehmigung.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=BTwF8o3yQK0"
+            }
+        },
+        {
+            "id": 233,
+            "title": "BIESZCZADZKI TRAKT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 62,
+            "pageRondo2024": null,
+            "interpret": "Scout Song from Poland (Lied aus Polen)",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=rDQl564-UD4"
+            }
+        },
+        {
+            "id": 157,
+            "title": "BLOS E CHLIINI STADT",
+            "pageRondoRed": 180,
+            "pageRondoBlue": 100,
+            "pageRondoGreen": 180,
+            "pageRondo2017": 180,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Dieter Wiesman",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Dm",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik \/ Text: Dieter Wiesman\n(C) Leuberg-Edition GmbH f\u00fcr Annabella, CH-8616 Riedikon",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=4UkLCSdz34k"
+            }
+        },
+        {
+            "id": 19,
+            "title": "BLOWIN' IN THE WIND",
+            "pageRondoRed": 150,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 150,
+            "pageRondo2017": 150,
+            "pageRondo2021": null,
+            "pageRondo2024": 150,
+            "interpret": "Bob Dylan",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Bob Dylan \nCopyright \u00a9 1962 UNIVERSAL TUNES Copyright Renewed \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=MMFj8uDubsE"
+            }
+        },
+        {
+            "id": 20,
+            "title": "BOAT ON THE RIVER",
+            "pageRondoRed": null,
+            "pageRondoBlue": 106,
+            "pageRondoGreen": 106,
+            "pageRondo2017": 106,
+            "pageRondo2021": null,
+            "pageRondo2024": 106,
+            "interpret": "Tommy Shaw",
+            "chords": [
+                "Am",
+                "D",
+                "Dm",
+                "E",
+                "E7",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "BOAT ON THE RIVER (100 % Copyright)\nMusik und Text: Tommy Shaw\n\u00a9 Copyright by Stygian Songs\nSub: MELODIE DER WELT GmbH & Co. KG, Musikverlag, Frankfurt\/Main f\u00fcr Deutschland, \u00d6sterreich und Schweiz.\n\nAbdruck erfolgt mit freundlicher Genehmigung",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=K9Qs8-BkiLw"
+            }
+        },
+        {
+            "id": 183,
+            "title": "BOCCALINO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 48,
+            "pageRondo2024": 48,
+            "interpret": "Guido Zanzi",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "D7",
+                "E",
+                "E7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik&Text: Guido Zanzi\nSchwaller Verlag",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=2MQgCDlNvEs"
+            }
+        },
+        {
+            "id": 21,
+            "title": "BOLLE",
+            "pageRondoRed": 14,
+            "pageRondoBlue": 142,
+            "pageRondoGreen": 14,
+            "pageRondo2017": 14,
+            "pageRondo2021": 14,
+            "pageRondo2024": 14,
+            "interpret": "Volkslied",
+            "chords": [
+                "A",
+                "A7",
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=HlN25CK2VDk&t=4s"
+            }
+        },
+        {
+            "id": 218,
+            "title": "BOULEVARD OF BROKEN DREAMS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 18,
+            "pageRondo2024": 18,
+            "interpret": "Green Day",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Billie Joe Armstrong, Frank E. Wright III and Michael Pritchard\n\u00a9 2004 WCM Music Corp and Green Daze Music\nWarner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Soa3gO7tL-c"
+            }
+        },
+        {
+            "id": 229,
+            "title": "Byl jeden p\u00e1n",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 76,
+            "pageRondo2024": null,
+            "interpret": "Jarom\u00edr Nohavica (Lied aus Tschechien)",
+            "chords": [
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": "Words and Music by Jarom\u00edr Nohavica"
+        },
+        {
+            "id": 23,
+            "title": "CALIFORNIA DREAMIN'",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 210,
+            "pageRondo2017": 210,
+            "pageRondo2021": null,
+            "pageRondo2024": 210,
+            "interpret": "The Mamas And The Papas",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7",
+                "H7sus4"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Phillips and Michelle Phillips \nCopyright \u00a9 1965 UNIVERSAL MUSIC CORP. Copyright Renewed \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=N-aK6JnyFmk"
+            }
+        },
+        {
+            "id": 172,
+            "title": "CAMMINANDO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 90,
+            "pageRondo2024": 176,
+            "interpret": "Pippo Pollina",
+            "chords": [
+                "Am",
+                "C",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words & Music by POLLINA GIUSEPPE",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=dqijqBsAslQ"
+            }
+        },
+        {
+            "id": 174,
+            "title": "CANTA E BALLA ALLA LUNA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 20,
+            "pageRondo2024": 270,
+            "interpret": "Canzone scout",
+            "chords": [
+                "Am",
+                "C",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=hqMZJaukG8Q"
+            }
+        },
+        {
+            "id": 176,
+            "title": "CANTO DELL'AMICIZIA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 129,
+            "pageRondo2024": 279,
+            "interpret": "Canzone scout",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=L162lHam4h4"
+            }
+        },
+        {
+            "id": 225,
+            "title": "CARAMBA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 30,
+            "pageRondo2024": 272,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=GWkfZ2vA_7A"
+            }
+        },
+        {
+            "id": 24,
+            "title": "CARAMBA",
+            "pageRondoRed": 38,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 38,
+            "pageRondo2017": 38,
+            "pageRondo2021": null,
+            "pageRondo2024": 38,
+            "interpret": "",
+            "chords": [
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": ""
+            }
+        },
+        {
+            "id": 191,
+            "title": "CENDRILLON",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 56,
+            "pageRondo2024": 274,
+            "interpret": "T\u00e9l\u00e9phone",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "CENDRILLON\nLyrics: Louis BERTIGNAC\nMusic: Louis BERTIGNAC, Corine MARIENNEAU, Richard KOLINKA, Jean-Louis AUBERT\n\u00a9 1982 UNIVERSAL MUSIC PUBLISHING (\u00c9ditions T\u00e9l\u00e9phone Musique)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=_tHbSMQeCdk"
+            }
+        },
+        {
+            "id": 202,
+            "title": "CHARLOTTA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 168,
+            "pageRondo2024": 276,
+            "interpret": "Hecht",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\u201cCharlotta\u201d - Hecht\nMusik und Text: Hecht\n\u00a9Gadget Records AG\/Capitano Music GmbH\nP Gadget Records AG",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=GPnrmLQKACU"
+            }
+        },
+        {
+            "id": 26,
+            "title": "CHEVALIERS DE LA TABLE RONDE",
+            "pageRondoRed": 70,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 70,
+            "pageRondo2017": 70,
+            "pageRondo2021": 70,
+            "pageRondo2024": 70,
+            "interpret": "Chanson populaire",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Lwb8mUb3hu8"
+            }
+        },
+        {
+            "id": 207,
+            "title": "CHLIINI H\u00c4ND",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 28,
+            "pageRondo2024": 280,
+            "interpret": "Kunz",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text & Musik: Marco Kunz\nBearbeitung \/ Arrangement: Manuel R\u00f6mer \/ Edis Kahrimanovic \/ Georg Schlunegger",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=aNgjX8y_HHU"
+            }
+        },
+        {
+            "id": 110,
+            "title": "Ciao, ciao Svizzera",
+            "pageRondoRed": 228,
+            "pageRondoBlue": 66,
+            "pageRondoGreen": 228,
+            "pageRondo2017": 228,
+            "pageRondo2021": 78,
+            "pageRondo2024": 228,
+            "interpret": "Andr\u00e9 St\u00fcrzinger",
+            "chords": [
+                "A",
+                "D",
+                "Em",
+                "Hm"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Text und Musik andr\u00e9 st\u00fcrzinger all rights reserved c 1979 and 1981  \nNeu auf YouTube ein Video: andre sturzinger tschau tschau svizzera"
+        },
+        {
+            "id": 27,
+            "title": "CONTURA SONG",
+            "pageRondoRed": null,
+            "pageRondoBlue": 6,
+            "pageRondoGreen": 234,
+            "pageRondo2017": 234,
+            "pageRondo2021": null,
+            "pageRondo2024": 234,
+            "interpret": "Nella Martinetti",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\u00a9 2008\nMusik: Nella Martinetti\nText: Laetitia Corthay, Fabiano Gerosa, Sara Hermann, Dominic Sydler und Vera Trachsel",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/dtVEA8SWmFg"
+            }
+        },
+        {
+            "id": 131,
+            "title": "Country Roads",
+            "pageRondoRed": 170,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 170,
+            "pageRondo2017": 170,
+            "pageRondo2021": null,
+            "pageRondo2024": 170,
+            "interpret": "John Denver",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Words and Music by John Denver, Bill Danoff and Taffy Nivert \nCopyright \u00a9 1971 BMG Ruby Songs and Reservoir Media Music \nCopyright Renewed All Rights for BMG Ruby Songs Administered by BMG Rights Management (US) LLC \nAll Rights for Reservoir Media Music Administered by Reservoir Media Management, Inc. All Rights Reserved Used by permission of Hal Leonard Europe Limited"
+        },
+        {
+            "id": 28,
+            "title": "D CHINDER VOM KOLUMBUS",
+            "pageRondoRed": null,
+            "pageRondoBlue": 130,
+            "pageRondoGreen": 130,
+            "pageRondo2017": 130,
+            "pageRondo2021": 130,
+            "pageRondo2024": 130,
+            "interpret": "Peter Reber",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\u00a9 Liton Musikverlag, 3007 Bern",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=0dVG2M2egJU"
+            }
+        },
+        {
+            "id": 102,
+            "title": "D'Pfadfinderei das isch",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 4,
+            "pageRondo2017": 4,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Jacob Stickelberger",
+            "chords": [
+                "A",
+                "E",
+                "E7",
+                "Fis",
+                "H7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": "Mit freundlicher Genehmigung von Jacob Stickelberger"
+        },
+        {
+            "id": 180,
+            "title": "DA FRATELLO A FRATELLO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 26,
+            "pageRondo2024": 282,
+            "interpret": "Franco Fasano",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E",
+                "E7",
+                "Em",
+                "F"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Texte de Fabrizio Berlincioni\nMusique de Franco Fasano\n\u00a9 2011 EMI Songs Edizioni Musicali Srl \/ Sony Music Publishing (Italy) Srl \/ Triacorda Srl\nTous droits r\u00e9serv\u00e9s pour tous pays\nReproduit avec l\u2019aimable autorisation de Hal Leonard Europe BV (Italy)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=c__s0tYEnQk"
+            }
+        },
+        {
+            "id": 15,
+            "title": "Da sind zwei Krokodil und en Orang-Utan",
+            "pageRondoRed": 60,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 60,
+            "pageRondo2017": 60,
+            "pageRondo2021": null,
+            "pageRondo2024": 60,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Em",
+                "G",
+                "G7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 226,
+            "title": "D\u00c4M ROTT\u00c4 NAA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 176,
+            "pageRondo2024": null,
+            "interpret": "Tony Lagger",
+            "chords": [
+                "C",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Mit freundlicher Genehmigung von Tony Lagger\nZeichnung von Kilian Michlig",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/0jZV9qI8HjI"
+            }
+        },
+        {
+            "id": 29,
+            "title": "DAS ALTE HAUS VON ROCKY DOCKY",
+            "pageRondoRed": 34,
+            "pageRondoBlue": 36,
+            "pageRondoGreen": 34,
+            "pageRondo2017": 34,
+            "pageRondo2021": 34,
+            "pageRondo2024": 34,
+            "interpret": "Stuart Hamblen",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Original: THIS OLE HOUSE\nM+T: Stuart Hamblen \/ dtsch. Text: Kurt Feltz\n\u00a9 1954 by Hamblen Music Co., Arcadia, California\nmit freundlicher Genehmigung\nROBA Music Verlag GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=JF-vQvZFQKk"
+            }
+        },
+        {
+            "id": 30,
+            "title": "DAY-O (THE BANANA BOAT SONG)",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 96,
+            "pageRondo2017": 96,
+            "pageRondo2021": null,
+            "pageRondo2024": 96,
+            "interpret": "Harry Belafonte",
+            "chords": [
+                "C",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Irving Burgie and William Attaway \nCopyright \u00a9 1955 Caribe Music Copyright Renewed All Rights Administered by BMG Rights Management (US) LLC \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=YO7M0Hx_1D8"
+            }
+        },
+        {
+            "id": 235,
+            "title": "De chlini Dino Joshua",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": 304,
+            "interpret": "LCone",
+            "chords": [
+                "Am",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Text: David Largier und Livio Carlin\nMusik: Gilles Knobel\nCopyright\/Verleger: FrontLine Publishing A Division Of The FM Music Group GmbH, 8123\nEbmatingen"
+        },
+        {
+            "id": 31,
+            "title": "DE GR\u00d6SCHT",
+            "pageRondoRed": 208,
+            "pageRondoBlue": 78,
+            "pageRondoGreen": 208,
+            "pageRondo2017": 208,
+            "pageRondo2021": 104,
+            "pageRondo2024": 208,
+            "interpret": "A. Steingruber",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "\u00a9 A. Steingruber",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=L73jfgoqOkg"
+            }
+        },
+        {
+            "id": 32,
+            "title": "DE T\u00d6FF VOM POLIZISCHT",
+            "pageRondoRed": 30,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 30,
+            "pageRondo2017": 30,
+            "pageRondo2021": null,
+            "pageRondo2024": 30,
+            "interpret": "",
+            "chords": [
+                "A",
+                "D",
+                "E"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=M6LzToyUnaE"
+            }
+        },
+        {
+            "id": 155,
+            "title": "DIE AFFEN",
+            "pageRondoRed": 7,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 6,
+            "pageRondo2017": 6,
+            "pageRondo2021": 106,
+            "pageRondo2024": 6,
+            "interpret": "Kinderlied",
+            "chords": [
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Tr-Qq00rvQ4"
+            }
+        },
+        {
+            "id": 147,
+            "title": "DIE MOORSOLDATEN",
+            "pageRondoRed": 198,
+            "pageRondoBlue": 124,
+            "pageRondoGreen": 198,
+            "pageRondo2017": 198,
+            "pageRondo2021": null,
+            "pageRondo2024": 198,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "D",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Abdruck mit freundlicher Genehmigung von C.F. Peters Ltd & Co. KG Leipzig",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=-boCKJsDe5U"
+            }
+        },
+        {
+            "id": 33,
+            "title": "DIE NACHT IST OHNE ENDE",
+            "pageRondoRed": 12,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 11,
+            "pageRondo2017": 11,
+            "pageRondo2021": null,
+            "pageRondo2024": 11,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=HF7REO1YjYw"
+            }
+        },
+        {
+            "id": 34,
+            "title": "DONNA DONNA",
+            "pageRondoRed": 174,
+            "pageRondoBlue": 80,
+            "pageRondoGreen": 174,
+            "pageRondo2017": 174,
+            "pageRondo2021": null,
+            "pageRondo2024": 174,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Sholom Sholem Secunda, Sheldon Secunda, Teddi Schwartz, Arthur Kevess and Aaron Zeitlin \n\u00a9 1940, 1968 (Renewed 1968, 1996) WILLIAMSON MUSIC, BEAM ME UP MUSIC and EMI MILLS MUSIC INC. \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=j1zBEWyBJb0"
+            }
+        },
+        {
+            "id": 156,
+            "title": "DOWN BY THE RIVERSIDE",
+            "pageRondoRed": 112,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 112,
+            "pageRondo2017": 112,
+            "pageRondo2021": null,
+            "pageRondo2024": 112,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Em",
+                "Em7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=2ih3kVkk5_Q"
+            }
+        },
+        {
+            "id": 35,
+            "title": "DR ALPEFLUG",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 31,
+            "pageRondo2017": 31,
+            "pageRondo2021": 31,
+            "pageRondo2024": 31,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "Dm",
+                "E"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Dr Alpeflug\" aus Mani Matter: Warum syt dir so truurig? \u00a9 2011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VTaC0i4hgBs"
+            }
+        },
+        {
+            "id": 36,
+            "title": "DR ESKIMO",
+            "pageRondoRed": 138,
+            "pageRondoBlue": 48,
+            "pageRondoGreen": 138,
+            "pageRondo2017": 138,
+            "pageRondo2021": 138,
+            "pageRondo2024": 138,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "Em"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Dr Eskimo\" aus Mani Matter: Us emene l\u00e4\u00e4re Gygechaschte \u00a9 2011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=nHONelNV_WA"
+            }
+        },
+        {
+            "id": 37,
+            "title": "DR PARKINGMETER",
+            "pageRondoRed": 26,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 26,
+            "pageRondo2017": 26,
+            "pageRondo2021": null,
+            "pageRondo2024": 26,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Dr Parkingmeter\" aus Mani Matter: Us emene l\u00e4\u00e4re Gygechaschte \u00a9 2011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=k8RqtnhIu1I"
+            }
+        },
+        {
+            "id": 158,
+            "title": "DR SCHACHER SEPPLI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 128,
+            "pageRondo2017": 128,
+            "pageRondo2021": null,
+            "pageRondo2024": 128,
+            "interpret": "Ruedi Rymann",
+            "chords": [
+                "C",
+                "Dm",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Erben Otto Wolf (vertreten durch Irene Froelicher, Lommiswil)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ApdlFiBJcBQ"
+            }
+        },
+        {
+            "id": 14,
+            "title": "Dr Sidi Abdel Assar vo El Hama",
+            "pageRondoRed": null,
+            "pageRondoBlue": 50,
+            "pageRondoGreen": 50,
+            "pageRondo2017": 50,
+            "pageRondo2021": 50,
+            "pageRondo2024": null,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "Dm",
+                "E"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "aus Mani Matter: Warum syt dir so truurig? \u00a92011 Zytglogge"
+        },
+        {
+            "id": 111,
+            "title": "DS HIPPIGSCHP\u00c4NGSCHTLI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 272,
+            "pageRondo2017": 220,
+            "pageRondo2021": null,
+            "pageRondo2024": 220,
+            "interpret": "Peter Reber",
+            "chords": [
+                "A",
+                "Am",
+                "D",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text und Musik: Peter Reber\nMit freundlicher Genehmigung Liton Musikverlag, Bern",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/EsJ77eCxmyc?si=RViA9PsPRNV-lp75"
+            }
+        },
+        {
+            "id": 113,
+            "title": "DS Z\u00dcNDH\u00d6LZLI",
+            "pageRondoRed": 136,
+            "pageRondoBlue": 52,
+            "pageRondoGreen": 136,
+            "pageRondo2017": 136,
+            "pageRondo2021": 136,
+            "pageRondo2024": 136,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "C",
+                "E",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Ds Z\u00fcndh\u00f6lzli\" aus Mani Matter: Us emene l\u00e4\u00e4re Gygechaschte \u00a9 2011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=PkGatIgXERI"
+            }
+        },
+        {
+            "id": 38,
+            "title": "Du bisch e cheibe Netti",
+            "pageRondoRed": 64,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 64,
+            "pageRondo2017": 64,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "E",
+                "E7",
+                "H7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 39,
+            "title": "DU FR\u00d6GSCH MI WER I BI",
+            "pageRondoRed": 127,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 125,
+            "pageRondo2017": 125,
+            "pageRondo2021": null,
+            "pageRondo2024": 125,
+            "interpret": "",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "E7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ygN8Whn5uQE"
+            }
+        },
+        {
+            "id": 40,
+            "title": "EINE OMA GING SPAZIEREN",
+            "pageRondoRed": 50,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 48,
+            "pageRondo2017": 48,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Leni Timmermann",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Eine Oma ging spazieren, Leni Timmermann",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=pvM9BE6_XRI"
+            }
+        },
+        {
+            "id": 41,
+            "title": "EINE SEEFAHRT",
+            "pageRondoRed": 10,
+            "pageRondoBlue": 62,
+            "pageRondoGreen": 10,
+            "pageRondo2017": 10,
+            "pageRondo2021": 10,
+            "pageRondo2024": null,
+            "interpret": "Volkslied",
+            "chords": [
+                "A",
+                "D",
+                "E"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=KrNz-f3jHlQ"
+            }
+        },
+        {
+            "id": 42,
+            "title": "EISGEK\u00dcHLTES COCA-COLA",
+            "pageRondoRed": 236,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 236,
+            "pageRondo2017": 236,
+            "pageRondo2021": null,
+            "pageRondo2024": 236,
+            "interpret": "",
+            "chords": [
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Iix7EPdqtfg"
+            }
+        },
+        {
+            "id": 43,
+            "title": "ES BUUREB\u00dcEBLI",
+            "pageRondoRed": 18,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 18,
+            "pageRondo2017": 18,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "C7",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=LCiRGyWaCms"
+            }
+        },
+        {
+            "id": 44,
+            "title": "ES WOTT ES FROUELI",
+            "pageRondoRed": 17,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 19,
+            "pageRondo2017": 19,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=u7xrBHKHiCg"
+            }
+        },
+        {
+            "id": 230,
+            "title": "Ett, tv\u00e5, sjuttifem",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 80,
+            "pageRondo2024": null,
+            "interpret": "(Lied aus Finnland)",
+            "chords": [
+                "C",
+                "F",
+                "G7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 205,
+            "title": "EWIGI LI\u00c4BI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 32,
+            "pageRondo2024": 284,
+            "interpret": "Mash",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Mash & Padi Bernhard",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=8ax3HmHUK3I"
+            }
+        },
+        {
+            "id": 186,
+            "title": "FARAMAZ",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 167,
+            "pageRondo2024": 232,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "D",
+                "D7",
+                "Em",
+                "G",
+                "H"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 46,
+            "title": "FATHER AND SON",
+            "pageRondoRed": 172,
+            "pageRondoBlue": 72,
+            "pageRondoGreen": 172,
+            "pageRondo2017": 172,
+            "pageRondo2021": null,
+            "pageRondo2024": 172,
+            "interpret": "Cat Stevens",
+            "chords": [
+                "Am",
+                "Am7",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Cat Stevens\nCopyright \u00a9 1970 Cat Music Limited Copyright Renewed All Rights Administered by BMG Rights Management (US) LLC \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=P6zaCV4niKk"
+            }
+        },
+        {
+            "id": 193,
+            "title": "FEMME LIB\u00c9R\u00c9E",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 46,
+            "pageRondo2024": 46,
+            "interpret": "Cookie Dingler",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Music by CHRISTIAN DINGLER \nWords by JOELLE BAHL",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VdxUwOOGoWs"
+            }
+        },
+        {
+            "id": 47,
+            "title": "FR\u00dcH AM MORGEN",
+            "pageRondoRed": 24,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 24,
+            "pageRondo2017": 24,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 157,
+            "title": "Ganz z'usserscht usse",
+            "pageRondoRed": 180,
+            "pageRondoBlue": 100,
+            "pageRondoGreen": 180,
+            "pageRondo2017": 180,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Dieter Wiesman",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Dm",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Musik \/ Text: Dieter Wiesman\n(C) Leuberg-Edition GmbH f\u00fcr Annabella, CH-8616 Riedikon"
+        },
+        {
+            "id": 48,
+            "title": "GEISTERREITER",
+            "pageRondoRed": 56,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 56,
+            "pageRondo2017": 56,
+            "pageRondo2021": null,
+            "pageRondo2024": 56,
+            "interpret": "Stan Jones",
+            "chords": [
+                "Am",
+                "B",
+                "Dm",
+                "F"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Stan Jones | Translated by Ernst Verch \u00a9 1949 Edwin H Morris & Co Inc | Chappell Morris Ltd",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=GkQEmsb6HwM"
+            }
+        },
+        {
+            "id": 49,
+            "title": "GO, TELL IT ON THE MOUNTAIN",
+            "pageRondoRed": 116,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 141,
+            "pageRondo2017": 184,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=HCDswefIGdQ"
+            }
+        },
+        {
+            "id": 53,
+            "title": "HEICHO - OHNI ZNACHT IS BETT",
+            "pageRondoRed": null,
+            "pageRondoBlue": 126,
+            "pageRondoGreen": 126,
+            "pageRondo2017": 126,
+            "pageRondo2021": 126,
+            "pageRondo2024": 126,
+            "interpret": "Scht\u00e4rnef\u00f6ifi",
+            "chords": [
+                "E",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Mit freundlicher Genehmigung von Scht\u00e4rnef\u00f6ifi \/ Musik: Traditional\/ Text: Boni Koller",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=3_a1C3znqGE"
+            }
+        },
+        {
+            "id": 203,
+            "title": "HEIMWEH",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 11,
+            "pageRondo2024": 12,
+            "interpret": "Pl\u00fcsch",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Pl\u00fcsch",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ZhZhRRg93aA"
+            }
+        },
+        {
+            "id": 208,
+            "title": "HEITEREFAHNE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 110,
+            "pageRondo2024": 124,
+            "interpret": "Trauffer",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Marc Trauffer, Frank Niklaus, David Hofmann, Thomas J. Gyger, Fredrik Str\u00f6mberg, Patric Neeser, Dave Kull",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=za9P26A3Jj0"
+            }
+        },
+        {
+            "id": 54,
+            "title": "HEMMIGE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 136,
+            "pageRondoGreen": 142,
+            "pageRondo2017": 142,
+            "pageRondo2021": 142,
+            "pageRondo2024": 142,
+            "interpret": "Mani Matter",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E7",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\"Hemmige\" aus Mani Matter: Us emene l\u00e4\u00e4re Gygechaschte \u00a9 2011 Zytglogge",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=L0OydDmfwAo"
+            }
+        },
+        {
+            "id": 55,
+            "title": "HERING UND FLUNDER",
+            "pageRondoRed": 9,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 265,
+            "pageRondo2017": 265,
+            "pageRondo2021": null,
+            "pageRondo2024": 262,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=sCzDHS50tlc"
+            }
+        },
+        {
+            "id": 169,
+            "title": "HEUTE HIER, MORGEN DORT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 134,
+            "pageRondo2021": 150,
+            "pageRondo2024": 134,
+            "interpret": "Hannes Wader",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text: Hannes Wader, Melodie: Gary Bolstad\n\"mit freundl. Genehmigung Westpark Music & Publishing, K\u00f6ln\"",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=2NNgv84dkvk"
+            }
+        },
+        {
+            "id": 56,
+            "title": "HEVENU SHALOM",
+            "pageRondoRed": 119,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 119,
+            "pageRondo2017": 119,
+            "pageRondo2021": null,
+            "pageRondo2024": 119,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D7",
+                "Dm",
+                "Gm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=4mr-6JHL8LU"
+            }
+        },
+        {
+            "id": 57,
+            "title": "HEY JUDE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 168,
+            "pageRondo2017": 168,
+            "pageRondo2021": null,
+            "pageRondo2024": 168,
+            "interpret": "The Beatles",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "E",
+                "E7",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1968 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured All Rights Reserved. \nUsed by Permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=A_MjCqQoLLA"
+            }
+        },
+        {
+            "id": 224,
+            "title": "HEY THERE DELILAH",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 172,
+            "pageRondo2024": 286,
+            "interpret": "Plain White T's",
+            "chords": [
+                "Am",
+                "C",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Tom Higgenson\n\u00a9 2005 WC Music Corp, Fear More Music and So Happy Publishing\nWarner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=h_m-BjrxmgI"
+            }
+        },
+        {
+            "id": 206,
+            "title": "HIPPIE-BUS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 111,
+            "pageRondo2024": 180,
+            "interpret": "Dodo",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Success Club",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Bp6gaPYwPB0"
+            }
+        },
+        {
+            "id": 168,
+            "title": "HOTEL CALIFORNIA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 202,
+            "pageRondo2021": null,
+            "pageRondo2024": 202,
+            "interpret": "The Eagles",
+            "chords": [
+                "A",
+                "D",
+                "E",
+                "Em",
+                "Fis",
+                "Fis7",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Don Henley, Don Felder and Glenn Frey\n\u00a9 1976 Fingers Music and Unknown Publisher\n(33.33%) Warner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=09839DpTctU"
+            }
+        },
+        {
+            "id": 59,
+            "title": "HOUSE OF THE RISING SUN",
+            "pageRondoRed": 160,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 160,
+            "pageRondo2017": 160,
+            "pageRondo2021": 160,
+            "pageRondo2024": 160,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VixdIglCZXk"
+            }
+        },
+        {
+            "id": 167,
+            "title": "HYMN",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 46,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Barclay James Harvest, John Lees",
+            "chords": [
+                "A",
+                "E",
+                "Esus4"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text und Musik von John Lees",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ObWNrkMT5dc"
+            }
+        },
+        {
+            "id": 38,
+            "title": "I BIN EN ITALIANO",
+            "pageRondoRed": 64,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 64,
+            "pageRondo2017": 64,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "E",
+                "E7",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=T82NgAA62aU"
+            }
+        },
+        {
+            "id": 60,
+            "title": "I SCH\u00c4NKE DR MIS H\u00c4RZ",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 182,
+            "pageRondo2017": 182,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Z\u00fcri West",
+            "chords": [
+                "Am",
+                "C",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text: Kuno Lauener \nMusik: Z\u00fcri West",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=0ooou2KjeAs"
+            }
+        },
+        {
+            "id": 62,
+            "title": "ICH KENNE EINEN COWBOY",
+            "pageRondoRed": 195,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 195,
+            "pageRondo2017": 195,
+            "pageRondo2021": null,
+            "pageRondo2024": 194,
+            "interpret": "",
+            "chords": [
+                "C",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=K7ntBlI5hqg"
+            }
+        },
+        {
+            "id": 61,
+            "title": "ICH KENNE EUROPAS ZONEN",
+            "pageRondoRed": 80,
+            "pageRondoBlue": 82,
+            "pageRondoGreen": 80,
+            "pageRondo2017": 80,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ncjyqD5YGyY"
+            }
+        },
+        {
+            "id": 231,
+            "title": "IF YOU'RE HAPPY AND YOU KNOW IT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 166,
+            "pageRondo2024": 166,
+            "interpret": "",
+            "chords": [
+                "B",
+                "C",
+                "F"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=BIQIp2MSKoI"
+            }
+        },
+        {
+            "id": 161,
+            "title": "IMAGINE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 22,
+            "pageRondo2021": null,
+            "pageRondo2024": 22,
+            "interpret": "John Lennon",
+            "chords": [
+                "Am7",
+                "C",
+                "D",
+                "D7",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Music & Lyrics: John Lennon, Yoko Ono\n\u00a9 Lenono Music\nWith courtesy of Budde Music Publishing GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VOgFZfRVaww"
+            }
+        },
+        {
+            "id": 64,
+            "title": "IN EINER BAR",
+            "pageRondoRed": 37,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 37,
+            "pageRondo2017": 37,
+            "pageRondo2021": null,
+            "pageRondo2024": 37,
+            "interpret": "",
+            "chords": [
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=PSvCGMjp8dU"
+            }
+        },
+        {
+            "id": 4,
+            "title": "It was 1989, my thoughts were short",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 52,
+            "pageRondo2017": 52,
+            "pageRondo2021": null,
+            "pageRondo2024": 52,
+            "interpret": "Kid Rock",
+            "chords": [
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "ALL SUMMER LONG (11,12 % Copyright)\nMusik und Text: Matthew Shafer \/ Edward King \/ Gary Rossington \/ Waddy Wachtel \/ Ronnie Van Zant \/ Warren Zevon \/ Leroy Marinell \/ Robert Ritchie\n\u00a9 Copyright by Leadsheet Land Music \/ Wixen Music Publishing Inc. \u2013 Ruminating Music \/ \u2026.\nSub: MELODIE DER WELT GmbH & Co. KG, Musikverlag, Frankfurt\/Main f\u00fcr Deutschland, \u00d6sterreich und Schweiz. \/ \u2026.\n\nAbdruck erfolgt mit freundlicher Genehmigung"
+        },
+        {
+            "id": 46,
+            "title": "It's not time to make a change",
+            "pageRondoRed": 172,
+            "pageRondoBlue": 72,
+            "pageRondoGreen": 172,
+            "pageRondo2017": 172,
+            "pageRondo2021": null,
+            "pageRondo2024": 172,
+            "interpret": "Cat Stevens",
+            "chords": [
+                "Am",
+                "Am7",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Words and Music by Cat Stevens\nCopyright \u00a9 1970 Cat Music Limited Copyright Renewed All Rights Administered by BMG Rights Management (US) LLC \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited"
+        },
+        {
+            "id": 65,
+            "title": "JACK IST IN DER K\u00dcCHE",
+            "pageRondoRed": 28,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 28,
+            "pageRondo2017": 28,
+            "pageRondo2021": null,
+            "pageRondo2024": 28,
+            "interpret": "",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=b17QLRThXLU"
+            }
+        },
+        {
+            "id": 66,
+            "title": "JOSHUA FOUGHT THE BATTLE OF JERICHO",
+            "pageRondoRed": 108,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 108,
+            "pageRondo2017": 108,
+            "pageRondo2021": null,
+            "pageRondo2024": 108,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "Dm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=MdQy2l8BegA"
+            }
+        },
+        {
+            "id": 166,
+            "title": "JUNG VERDAMMT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 242,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Lo & Leduc",
+            "chords": [
+                "Am",
+                "Dm",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Lyrics: L. H\u00e4berli, L. Oggier\nMusic: D. Jud\nPublishing Rights: Bakara Music Publishing",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=4k1kSXpSRuA"
+            }
+        },
+        {
+            "id": 67,
+            "title": "JUNGE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 262,
+            "pageRondo2017": 262,
+            "pageRondo2021": 114,
+            "pageRondo2024": 260,
+            "interpret": "Die \u00c4rzte",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "M\/T: Farin Urlaub\nVerlag: Edition Fuhuru\/PMS Musikverlag GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=iK-1oGphELM"
+            }
+        },
+        {
+            "id": 227,
+            "title": "KARL DER K\u00c4FER",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 165,
+            "pageRondo2024": 253,
+            "interpret": "G\u00e4nsehaut",
+            "chords": [
+                "A7",
+                "D",
+                "Dm",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik: Gerald Dellmann, Dieter Roesberg\/Text: Gerald Dellmann\n\u00a9 1983 by Dany Music Musikverlage Hans Gerig & Co.\n\u00a9 1992 by Papagayo Musikverlage Hans Gerig oHG\nmit freundlicher Genehmigung\nROBA Music Verlag GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=4ZoLNDpTadg"
+            }
+        },
+        {
+            "id": 68,
+            "title": "KEIN SCH\u00d6NER LAND",
+            "pageRondoRed": 126,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 124,
+            "pageRondo2017": 124,
+            "pageRondo2021": 124,
+            "pageRondo2024": null,
+            "interpret": "Anton Wilhelm von Zuccalmaglio",
+            "chords": [
+                "E",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Jegliche ungenehmigte Nutzung bzw. Vervielf\u00e4ltigung ist gesetzlich untersagt. Alle Rechte vorbehalten.\n\u00a9 -2022- Tonos Music Publishing oHG, Baden-Baden, Deutschland",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=WwL8wyBlceE"
+            }
+        },
+        {
+            "id": 69,
+            "title": "KIOSK",
+            "pageRondoRed": null,
+            "pageRondoBlue": 116,
+            "pageRondoGreen": 116,
+            "pageRondo2017": 116,
+            "pageRondo2021": 116,
+            "pageRondo2024": 116,
+            "interpret": "Polo Hofer",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Mit freundlicher Genehmigung XANGISCHXUNG",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VIK7pC_4yKI"
+            }
+        },
+        {
+            "id": 70,
+            "title": "KNOCKIN' ON HEAVEN'S DOOR",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 196,
+            "pageRondo2017": 196,
+            "pageRondo2021": null,
+            "pageRondo2024": 196,
+            "interpret": "Bob Dylan",
+            "chords": [
+                "Am7",
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Bob Dylan \nCopyright \u00a9 1973, 1976 UNIVERSAL TUNES Copyright Renewed \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=rm9coqlk8fY"
+            }
+        },
+        {
+            "id": 229,
+            "title": "KOZEL",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 76,
+            "pageRondo2024": null,
+            "interpret": "Jarom\u00edr Nohavica (Lied aus Tschechien)",
+            "chords": [
+                "C",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Words and Music by Jarom\u00edr Nohavica",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch? v=2HQDRZ1UMK8"
+            }
+        },
+        {
+            "id": 71,
+            "title": "KUMBAYA",
+            "pageRondoRed": 115,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 232,
+            "pageRondo2017": 232,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "Em",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=1jjcxFGEysE"
+            }
+        },
+        {
+            "id": 194,
+            "title": "L'HOMME DE CRO-MAGNON",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 22,
+            "pageRondo2024": 290,
+            "interpret": "Les Quatre Barbus",
+            "chords": [
+                "A7",
+                "C",
+                "Dm",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Les Quatre Barbus\n\nJacques Tritsch, Pierre Jamet, Georges Thibaut, Marcel Quinton",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=cWQwxcFigQs&t"
+            }
+        },
+        {
+            "id": 72,
+            "title": "L'INVERNO \u00c8 PASSATO",
+            "pageRondoRed": 66,
+            "pageRondoBlue": 94,
+            "pageRondoGreen": 66,
+            "pageRondo2017": 66,
+            "pageRondo2021": null,
+            "pageRondo2024": 66,
+            "interpret": "",
+            "chords": [
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=9VjA6Zty84U"
+            }
+        },
+        {
+            "id": 179,
+            "title": "LA CANZONE DEL SOLE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 132,
+            "pageRondo2024": 306,
+            "interpret": "Lucio Battisti",
+            "chords": [
+                "A",
+                "D",
+                "E"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Testo di Giulio Rapetti Mogol\nMusica di Lucio Battisti\n\u00a9 1971 Edizioni Musicali Acqua Azzurra S.r.l.\nTutti i diritti sono riservati. All Rights Reserved. International Copyright Secured.\nPer gentile concessione del Gruppo Editoriale Volont\u00e8 & Co. S.r.l. \u2013 C.so Venezia 41, 20121 Milano - www.volonte-co.com",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Vu005eUjTMI"
+            }
+        },
+        {
+            "id": 177,
+            "title": "LA VERZASCHINA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 72,
+            "pageRondo2024": 205,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "C",
+                "C7",
+                "D7",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=CbjP7438Amo"
+            }
+        },
+        {
+            "id": 74,
+            "title": "LADY IN BLACK",
+            "pageRondoRed": null,
+            "pageRondoBlue": 46,
+            "pageRondoGreen": 206,
+            "pageRondo2017": 206,
+            "pageRondo2021": null,
+            "pageRondo2024": 206,
+            "interpret": "Uriah Heep",
+            "chords": [
+                "D",
+                "Em"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Ken Hensley \nCopyright \u00a9 1970 EMI Music Publishing Ltd. Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=N0H48bpJziQ"
+            }
+        },
+        {
+            "id": 73,
+            "title": "LADY MADONNA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 224,
+            "pageRondo2017": 224,
+            "pageRondo2021": null,
+            "pageRondo2024": 224,
+            "interpret": "The Beatles",
+            "chords": [
+                "A",
+                "Am",
+                "C",
+                "D",
+                "Dm",
+                "E",
+                "Esus4",
+                "F",
+                "G",
+                "G7",
+                "Hm7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1968 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=uLRiGX3L-kw"
+            }
+        },
+        {
+            "id": 185,
+            "title": "LE BON DIEU S'\u00c9NERVAIT",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 100,
+            "pageRondo2024": 292,
+            "interpret": "Hugues Aufray",
+            "chords": [
+                "A",
+                "Am",
+                "E",
+                "E7",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik: Hugues Auffray\nText: Pierre Delanoe, Hugues Auffray\nGarlick Music, Les Nouvelles Editiones Meridian\nMit freundlicher Genehmigung von \u00a9 Siebenpunkt Verlags GmbH & Peermusic (Germany)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=3jeYIZg0Ebw"
+            }
+        },
+        {
+            "id": 25,
+            "title": "LES CHAMPS ELYS\u00c9ES",
+            "pageRondoRed": null,
+            "pageRondoBlue": 150,
+            "pageRondoGreen": 214,
+            "pageRondo2017": 214,
+            "pageRondo2021": null,
+            "pageRondo2024": 214,
+            "interpret": "Joe Dassin",
+            "chords": [
+                "A7",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Original Words and Music by Mike Wilsh and Mike Deighan\nFrench Words by Pierre Delanoe\n\u00a9 1969 Intersong Music Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=_r4sBv4m0aI"
+            }
+        },
+        {
+            "id": 76,
+            "title": "LET IT BE",
+            "pageRondoRed": 238,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 238,
+            "pageRondo2017": 238,
+            "pageRondo2021": null,
+            "pageRondo2024": 238,
+            "interpret": "The Beatles",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1970 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/QDYfEBY9NM4"
+            }
+        },
+        {
+            "id": 217,
+            "title": "LILA WOLKEN",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 37,
+            "pageRondo2024": 183,
+            "interpret": "Marteria, Yasha, Miss Platnum",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by David Conen, Vincent von Schlippenbach and Dirk Heinz Berger Copyright \u00a9 2012 BMG Rights Management GmbH\nUsed by permission of Hal Leonard Europe Limited\nAll Rights Reserved. Used by permission of Hal Leonard Europe Limited.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=CrYYg_atdtk"
+            }
+        },
+        {
+            "id": 77,
+            "title": "LIVE IS LIFE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 148,
+            "pageRondoGreen": 148,
+            "pageRondo2017": 148,
+            "pageRondo2021": null,
+            "pageRondo2024": 148,
+            "interpret": "Opus",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Music: Ewald Pfleger, Guenter Grasmuck, Peter Niklas Gruber, Kurt Plisnier, Herwig Tremschnig\nLyrics: Ewald Pfleger\n\u00a9 Opus Music Publishing\nWith courtesy of Budde Music Publishing GmbH\nf\u00fcr D: ROLF BUDDE MUSIKVERLAG GMBH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=EGikhmjTSZI"
+            }
+        },
+        {
+            "id": 175,
+            "title": "LO SPAZZACAMINO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 118,
+            "pageRondo2024": null,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "C",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=nHmvfjWlku4"
+            }
+        },
+        {
+            "id": 78,
+            "title": "LOSING MY RELIGION",
+            "pageRondoRed": null,
+            "pageRondoBlue": 110,
+            "pageRondoGreen": 110,
+            "pageRondo2017": 110,
+            "pageRondo2021": null,
+            "pageRondo2024": 110,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "Dsus2",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Music & Lyrics: Leon Wolf, Amanda Colinda Van Den Hil, Chico De Reus, Muriel Sophie Beck\n\u00a9Tricot Edition, Gold Cloud Music Publishing, Budde Music Publishing GmbH\nWith courtesy of Budde Music Publishing GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=xwtdhWltSIg"
+            }
+        },
+        {
+            "id": 79,
+            "title": "LOUENESEE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 104,
+            "pageRondoGreen": 200,
+            "pageRondo2017": 200,
+            "pageRondo2021": null,
+            "pageRondo2024": 200,
+            "interpret": "Span",
+            "chords": [
+                "A",
+                "Cism",
+                "D",
+                "E",
+                "Fism",
+                "Fism7",
+                "Gism",
+                "H",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text & Musik: Georges M\u00fcller",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=AAmTdEgLY0Q"
+            }
+        },
+        {
+            "id": 80,
+            "title": "LUDMILLA",
+            "pageRondoRed": null,
+            "pageRondoBlue": 146,
+            "pageRondoGreen": 240,
+            "pageRondo2017": 240,
+            "pageRondo2021": 96,
+            "pageRondo2024": 240,
+            "interpret": "Patent Ochsner",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "Em7",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "B\u00fcne Huber, Stellanera Bern",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/Dg7CvyBkzIs"
+            }
+        },
+        {
+            "id": 162,
+            "title": "LUEGET VO BERG UND TAL",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 120,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Volkslied",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Hdshwr1hDX8"
+            }
+        },
+        {
+            "id": 199,
+            "title": "MA LIBERT\u00c9",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 108,
+            "pageRondo2024": 104,
+            "interpret": "Georges Moustaki",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E",
+                "E7",
+                "Em",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "\u00a9Paille Musique",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=G4TBlPc18SM"
+            }
+        },
+        {
+            "id": 82,
+            "title": "MAN ST\u00dcRZTE SICH ZUR SONNTAGSZEIT",
+            "pageRondoRed": 54,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 54,
+            "pageRondo2017": 54,
+            "pageRondo2021": 54,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/Sx2ib2RgsrY?t=58"
+            }
+        },
+        {
+            "id": 83,
+            "title": "MARMOR, STEIN UND EISEN BRICHT",
+            "pageRondoRed": 122,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 122,
+            "pageRondo2017": 122,
+            "pageRondo2021": null,
+            "pageRondo2024": 122,
+            "interpret": "Drafi Deutscher",
+            "chords": [
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik: Christian Bruhn, Drafi Deutscher  \nText: G\u00fcnther Rudolf Loose \n\u00a9 by Nero Musikverlag GmbH \nMit freundlicher Genehmigung: Rudi Schedler Musikverlag GmbH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=_74YzFnQbzg"
+            }
+        },
+        {
+            "id": 84,
+            "title": "MEIN FAHRRAD",
+            "pageRondoRed": null,
+            "pageRondoBlue": 42,
+            "pageRondoGreen": 42,
+            "pageRondo2017": 42,
+            "pageRondo2021": 42,
+            "pageRondo2024": 42,
+            "interpret": "Die Prinzen",
+            "chords": [
+                "Am",
+                "B",
+                "C",
+                "Dm",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Sebastian Krumbiegel and Tobias K\u00fcnzel Copyright \u00a9 1991 BMG Rights Management GmbH BITTE CO VERLAGE ERG\u00c4NZEN Used by permission of Hal Leonard Europe Limited\nAll Rights Reserved. Used by permission of Hal Leonard Europe Limited.",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/Dg5y6Q2crXw"
+            }
+        },
+        {
+            "id": 85,
+            "title": "MEIN HUT",
+            "pageRondoRed": 29,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 29,
+            "pageRondo2017": 29,
+            "pageRondo2021": null,
+            "pageRondo2024": 29,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Q8ot6eAMUQs"
+            }
+        },
+        {
+            "id": 86,
+            "title": "MEITELI, WENN DU WITT GO TANZE",
+            "pageRondoRed": 47,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 188,
+            "pageRondo2017": 188,
+            "pageRondo2021": null,
+            "pageRondo2024": 188,
+            "interpret": "",
+            "chords": [
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/0ILvyLIRTnI?t=5"
+            }
+        },
+        {
+            "id": 87,
+            "title": "MINI FARB UND DIINI",
+            "pageRondoRed": 94,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 94,
+            "pageRondo2017": 94,
+            "pageRondo2021": null,
+            "pageRondo2024": 94,
+            "interpret": "",
+            "chords": [
+                "C7",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=fb3vdTYnKGM"
+            }
+        },
+        {
+            "id": 226,
+            "title": "Mi\u00e4r g\u00e4\u00e4 d\u00e4m Rott\u00e4 naa gaa trot\u00e4",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 176,
+            "pageRondo2024": null,
+            "interpret": "Tony Lagger",
+            "chords": [
+                "C",
+                "F",
+                "G7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": "Mit freundlicher Genehmigung von Tony Lagger\nZeichnung von Kilian Michlig"
+        },
+        {
+            "id": 89,
+            "title": "MOONLIGHT SHADOW",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 222,
+            "pageRondo2017": 222,
+            "pageRondo2021": null,
+            "pageRondo2024": 222,
+            "interpret": "Mike Oldfield",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Mike Oldfield \nCopyright \u00a9 1983 Stage Three Music (Catalogues) Ltd. and Oldfield Music Ltd. \nAll Rights Administered by BMG Rights Management (US) LLC \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=e80qhyovOnA"
+            }
+        },
+        {
+            "id": 88,
+            "title": "MOONSHADOW",
+            "pageRondoRed": 260,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 260,
+            "pageRondo2017": 260,
+            "pageRondo2021": null,
+            "pageRondo2024": 258,
+            "interpret": "Cat Stevens",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "E",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Cat Stevens \nCopyright \u00a9 1971 Cat Music Limited Copyright Renewed \nAll Rights Administered by BMG Rights Management (US) LLC \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=AopGsKIKMp8"
+            }
+        },
+        {
+            "id": 90,
+            "title": "MORE THAN WORDS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 250,
+            "pageRondo2017": 250,
+            "pageRondo2021": null,
+            "pageRondo2024": 250,
+            "interpret": "Extreme",
+            "chords": [
+                "Am7",
+                "C",
+                "Cm",
+                "D",
+                "D-Fis",
+                "D7",
+                "Em",
+                "Em7",
+                "G",
+                "G7",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "More Than Words\nWords and Music by Nuno Bettencourt and Gary Cherone \nCopyright \u00a9 1990 COLOR ME BLIND MUSIC \nAll Rights Administered by ALMO MUSIC CORP. \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=UrIiLvg58SY"
+            }
+        },
+        {
+            "id": 91,
+            "title": "MORNING HAS BROKEN",
+            "pageRondoRed": 176,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 176,
+            "pageRondo2017": 176,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Cat Stevens",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Dm",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Morning Has Broken Words by Eleanor Farjeon Music by Cat Stevens Copyright \u00a9 1971 Cat Music Ltd. and BMG Rights Management (UK) Ltd. Copyright Renewed All Rights Administered by BMG Rights Management (US) LLC All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=DmAOBosGlHY"
+            }
+        },
+        {
+            "id": 170,
+            "title": "MOSAIK SONG",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Freunde des Dschungels",
+            "chords": [
+                "A7",
+                "Am7",
+                "B",
+                "C",
+                "D7",
+                "Dm7",
+                "Em7",
+                "F",
+                "Gm7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "PFF FFS 2019 \nFreunde des Dschungels",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=bolKNT1PuSQ"
+            }
+        },
+        {
+            "id": 201,
+            "title": "MOVA - ON Y VA!",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 4,
+            "pageRondo2024": 296,
+            "interpret": "BuLa CaF\u00e9 CaFe 2022",
+            "chords": [
+                "A",
+                "Asus2",
+                "Asus4",
+                "C",
+                "D",
+                "Dsus4",
+                "Em",
+                "G",
+                "G+"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Roland Brunschweiler \u2013 Linus \/ Gaspard Vignon - Magot Rigolo \/ Victoria Mosca \u2013 Monchichi \/ Nadine Engel \u2013 Naura \/ Nicola Nesa \u2013 Nini \/ Chiara Regazzoni \u2013 Puma \/ Laura Moser \u2013 Ragusa \/ Samuel Hofmann \u2013 Sultan \/ Patrick Maire \u2013 Switsch \/ Laszlo Arato \u2013 Tornado \/ Gabriel Jetter \u2013 Tschaggon \/ Andrea Lustenberger \u2013 Twist \/ Salom\u00e9 Perret \u2013 Wicki \/ Martin Steiner \u2013 Wiesel \/ Andreas Kessler \/ Raymond Wiedmer \u2013 Tristan",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=9xvSsiVLWcc"
+            }
+        },
+        {
+            "id": 92,
+            "title": "MRS. ROBINSON",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 252,
+            "pageRondo2017": 252,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Simon & Garfunkel",
+            "chords": [
+                "A",
+                "A7",
+                "Am",
+                "C",
+                "D7",
+                "Dm",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Morning Has Broken Words by Eleanor Farjeon Music by Cat Stevens Copyright \u00a9 1971 Cat Music Ltd. and BMG Rights Management (UK) Ltd. Copyright Renewed All Rights Administered by BMG Rights Management (US) LLC All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/9C1BCAgu2I8?si=fGsf3PmvT85JCB_H"
+            }
+        },
+        {
+            "id": 93,
+            "title": "MY BONNIE",
+            "pageRondoRed": 72,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 72,
+            "pageRondo2017": 72,
+            "pageRondo2021": null,
+            "pageRondo2024": 72,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "Am",
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=-sxkE2Gg74E"
+            }
+        },
+        {
+            "id": 192,
+            "title": "NE SENS-TU PAS CLAQUER TES DOIGTS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 82,
+            "pageRondo2024": 294,
+            "interpret": "Chanson populaire scoute",
+            "chords": [
+                "C",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Words an Music by PIERRE HUWILER",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=88ss64cHWm0&list=RD88ss64cHWm0&start_radio=1"
+            }
+        },
+        {
+            "id": 94,
+            "title": "NOBODY KNOWS",
+            "pageRondoRed": 104,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 104,
+            "pageRondo2017": 104,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "E",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/SVKKRzemX_w?t=10"
+            }
+        },
+        {
+            "id": 95,
+            "title": "NOTHING ELSE MATTERS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 246,
+            "pageRondo2017": 248,
+            "pageRondo2021": null,
+            "pageRondo2024": 248,
+            "interpret": "Metallica",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by James Hetfield and Lars Ulrich \nCopyright \u00a9 1991 CREEPING DEATH MUSIC \nAll Rights Administered by UNIVERSAL MUSIC PUBLISHING LTD. \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=tAGnKpE4NCI"
+            }
+        },
+        {
+            "id": 97,
+            "title": "OB-LA-DI, OB-LA-DA",
+            "pageRondoRed": 258,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 258,
+            "pageRondo2017": 258,
+            "pageRondo2021": null,
+            "pageRondo2024": 256,
+            "interpret": "The Beatles",
+            "chords": [
+                "Am",
+                "C",
+                "C7",
+                "Em",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1968 Sony Music Publishing (US) LLC \nCopyright Renewed \nAll Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 \nInternational Copyright Secured All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=_J9NpHKrKMw"
+            }
+        },
+        {
+            "id": 98,
+            "title": "OH SUSANNA",
+            "pageRondoRed": 82,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 82,
+            "pageRondo2017": 82,
+            "pageRondo2021": null,
+            "pageRondo2024": 82,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=qSIj17xbAyk"
+            }
+        },
+        {
+            "id": 99,
+            "title": "OH W\u00c4NN DE S\u00c4NN",
+            "pageRondoRed": 76,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 76,
+            "pageRondo2017": 76,
+            "pageRondo2021": null,
+            "pageRondo2024": 76,
+            "interpret": "",
+            "chords": [
+                "A",
+                "Am",
+                "E",
+                "E7",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=3DGp6QvH2Jc"
+            }
+        },
+        {
+            "id": 100,
+            "title": "OLD MAC DONALD",
+            "pageRondoRed": 79,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 79,
+            "pageRondo2017": 79,
+            "pageRondo2021": null,
+            "pageRondo2024": 79,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/_6HzoUcx3eo?t=7"
+            }
+        },
+        {
+            "id": 182,
+            "title": "OLEANNA",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 122,
+            "pageRondo2024": 245,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "A",
+                "D",
+                "E7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=DBTM7qx4OEM"
+            }
+        },
+        {
+            "id": 101,
+            "title": "ON MY HONOUR",
+            "pageRondoRed": null,
+            "pageRondoBlue": 84,
+            "pageRondoGreen": 86,
+            "pageRondo2017": 86,
+            "pageRondo2021": null,
+            "pageRondo2024": 86,
+            "interpret": "Cindy Dasch",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Cindy Dasch",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/zG1CCLnsACs"
+            }
+        },
+        {
+            "id": 181,
+            "title": "On \u00e9crit sur les murs",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 125,
+            "pageRondo2024": 309,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "Am",
+                "C",
+                "C7",
+                "E7",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Texte original de Jean-Marie P.M. Moreau\nMusique de Romano Musumarra\n\u00a9 2015 EMI Music Publishing France\nTous droits r\u00e9serv\u00e9s pour tous pays\nReproduit avec l\u2019aimable autorisation de Hal Leonard Europe BV (Italy)"
+        },
+        {
+            "id": 102,
+            "title": "PFADFINDER",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 4,
+            "pageRondo2017": 4,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Jacob Stickelberger",
+            "chords": [
+                "A",
+                "E",
+                "E7",
+                "Fis",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Mit freundlicher Genehmigung von Jacob Stickelberger",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 103,
+            "title": "PFADI ROCK'N'ROLL",
+            "pageRondoRed": 90,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 90,
+            "pageRondo2017": 90,
+            "pageRondo2021": null,
+            "pageRondo2024": 90,
+            "interpret": "",
+            "chords": [
+                "A",
+                "E",
+                "H7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 170,
+            "title": "PFF FFS 2019 Song",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "Freunde des Dschungels",
+            "chords": [
+                "A7",
+                "Am7",
+                "B",
+                "C",
+                "D7",
+                "Dm7",
+                "Em7",
+                "F",
+                "Gm7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": "PFF FFS 2019 \nFreunde des Dschungels"
+        },
+        {
+            "id": 104,
+            "title": "PROBIER'S MAL MIT GEM\u00dcTLICHKEIT",
+            "pageRondoRed": null,
+            "pageRondoBlue": 156,
+            "pageRondoGreen": 256,
+            "pageRondo2017": 256,
+            "pageRondo2021": 94,
+            "pageRondo2024": 254,
+            "interpret": "Terry Gilkyson",
+            "chords": [
+                "A7",
+                "Am",
+                "Am7",
+                "C",
+                "C7",
+                "Cm",
+                "D7",
+                "E7",
+                "Em",
+                "Em7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Terry Gilkyson\n\u00a9 1964 Wonderland Music Company, Inc. \nCopyright Renewed. \nAll Rights Reserved. Used by Permission Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/Bp_5viK2lTo"
+            }
+        },
+        {
+            "id": 228,
+            "title": "PRONTI A SERVIRE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 66,
+            "pageRondo2024": null,
+            "interpret": "Canto Scout Italiano (Lied aus Italien)",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch? v=z31zZaQxndQ"
+            }
+        },
+        {
+            "id": 105,
+            "title": "PROUD MARY",
+            "pageRondoRed": 100,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 100,
+            "pageRondo2017": 100,
+            "pageRondo2021": null,
+            "pageRondo2024": 100,
+            "interpret": "John Cameron Fogerty",
+            "chords": [
+                "B",
+                "C",
+                "D",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Fogerty\n\u00a9 1964 Jondora Music\nBurlington Music Co Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=5hid10EgMXE"
+            }
+        },
+        {
+            "id": 106,
+            "title": "PUFF THE MAGIC DRAGON",
+            "pageRondoRed": 140,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 140,
+            "pageRondo2017": 140,
+            "pageRondo2021": null,
+            "pageRondo2024": 140,
+            "interpret": "",
+            "chords": [
+                "A",
+                "Cism",
+                "D",
+                "E7",
+                "Fism",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Lenny Lipton and Peter Yarrow \nCopyright \u00a9 1963 Honalee Melodies and Silver Dawn Music \nCopyright Renewed \nAll Rights for Honalee Melodies Administered by BMG Rights Management (US) LLC \nAll Rights for Silver Dawn Music Administered by Warner Chappell North America Ltd., London, W8 5DA \nAll Rights Reserved Used by Permission Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Y7lmAc3LKWM"
+            }
+        },
+        {
+            "id": 236,
+            "title": "RASSELBANDI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": 4,
+            "interpret": "Hilfssheriff Tom",
+            "chords": [
+                "Am",
+                "C",
+                "E",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "L\u00fcber\/Niklaus",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=NueQ1OH15zM"
+            }
+        },
+        {
+            "id": 219,
+            "title": "RIPTIDE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 84,
+            "pageRondo2024": 298,
+            "interpret": "Vance Joy",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by James Keogh\n\u00a9 2014 WC Music Corp and Vance Joy ASCAP Pub Designee\nWarner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=uJ_1HMAGb4k"
+            }
+        },
+        {
+            "id": 107,
+            "title": "ROCK-A MY SOUL",
+            "pageRondoRed": 118,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 118,
+            "pageRondo2017": 118,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=vzNg0YBTgos"
+            }
+        },
+        {
+            "id": 209,
+            "title": "ROSALIE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 102,
+            "pageRondo2024": 102,
+            "interpret": "Bligg",
+            "chords": [
+                "Am",
+                "Dm",
+                "E"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text: Marco Bliggensdorfer \nMusik: Fred Herrmann \/ Roman Camenzind \/ Walter Alder\nVerlag: DreamStar Publishing",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=5S3G3c_paUk"
+            }
+        },
+        {
+            "id": 108,
+            "title": "ROW YOUR BOAT",
+            "pageRondoRed": 189,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 187,
+            "pageRondo2017": 187,
+            "pageRondo2021": null,
+            "pageRondo2024": 187,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=7otAJa3jui8"
+            }
+        },
+        {
+            "id": 112,
+            "title": "S' STIFELI",
+            "pageRondoRed": 30,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 33,
+            "pageRondo2017": 33,
+            "pageRondo2021": null,
+            "pageRondo2024": 33,
+            "interpret": "",
+            "chords": [
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=eXQoZ7rdEck"
+            }
+        },
+        {
+            "id": 210,
+            "title": "S'BR\u00dcEDERLI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 92,
+            "pageRondo2024": 300,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 110,
+            "title": "S'ELLI",
+            "pageRondoRed": 228,
+            "pageRondoBlue": 66,
+            "pageRondoGreen": 228,
+            "pageRondo2017": 228,
+            "pageRondo2021": 78,
+            "pageRondo2024": 228,
+            "interpret": "Andr\u00e9 St\u00fcrzinger",
+            "chords": [
+                "A",
+                "D",
+                "Em",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text und Musik andr\u00e9 st\u00fcrzinger all rights reserved c 1979 and 1981  \nNeu auf YouTube ein Video: andre sturzinger tschau tschau svizzera",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Wd-R82a2uxY"
+            }
+        },
+        {
+            "id": 115,
+            "title": "SAILING",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 266,
+            "pageRondo2017": 266,
+            "pageRondo2021": null,
+            "pageRondo2024": 264,
+            "interpret": "Rod Steward",
+            "chords": [
+                "A",
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Gavin Sutherland \nCopyright \u00a9 1972 UNIVERSAL\/ISLAND MUSIC LTD. \nCopyright Renewed All Rights in the U.S. and Canada Controlled and Administered by UNIVERSAL - POLYGRAM INTERNATIONAL PUBLISHING, INC. \nAll Rights Reserved Used by Permission Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/FOt3oQ_k008?si=vyX6y_CXYd8a_smt"
+            }
+        },
+        {
+            "id": 195,
+            "title": "SAN FRANCISCO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 60,
+            "pageRondo2024": 302,
+            "interpret": "Pierre Huwiler, Maxime Leforestier",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Komponist: FORESTIER (LE) MAXIME\n\u00a9 COINCIDENCES\/ LES EDITIONS DU 22 DECEMBRE\/ ROYAL FLAME MUSIC GMBH",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=0uT87XQrki0"
+            }
+        },
+        {
+            "id": 116,
+            "title": "SANTIANO",
+            "pageRondoRed": null,
+            "pageRondoBlue": 144,
+            "pageRondoGreen": 144,
+            "pageRondo2017": 167,
+            "pageRondo2021": null,
+            "pageRondo2024": 167,
+            "interpret": "Hugues Aufray",
+            "chords": [
+                "Am",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Traditional\nArranged by Jacques Plante after David Fisher\n\u00a9 1964 WC Music Corp\nWarner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/vjmFJH1fkyk"
+            }
+        },
+        {
+            "id": 235,
+            "title": "SAURUS",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": 304,
+            "interpret": "LCone",
+            "chords": [
+                "Am",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text: David Largier und Livio Carlin\nMusik: Gilles Knobel\nCopyright\/Verleger: FrontLine Publishing A Division Of The FM Music Group GmbH, 8123\nEbmatingen",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/ojnpLp-IruM?t=44"
+            }
+        },
+        {
+            "id": 117,
+            "title": "SCARBOROUGH FAIR",
+            "pageRondoRed": 158,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 158,
+            "pageRondo2017": 158,
+            "pageRondo2021": null,
+            "pageRondo2024": 158,
+            "interpret": "",
+            "chords": [
+                "A",
+                "D",
+                "Em",
+                "Fism",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=-BakWVXHSug"
+            }
+        },
+        {
+            "id": 118,
+            "title": "SCHARLACHROT",
+            "pageRondoRed": null,
+            "pageRondoBlue": 145,
+            "pageRondoGreen": 145,
+            "pageRondo2017": 144,
+            "pageRondo2021": 144,
+            "pageRondo2024": 144,
+            "interpret": "Patent Ochsner",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Dsus4",
+                "Em",
+                "G",
+                "H7",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "B\u00fcne Huber, Stellanera Bern",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/Kq6oaRm-c5c"
+            }
+        },
+        {
+            "id": 119,
+            "title": "SCHWAN",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 270,
+            "pageRondo2017": 270,
+            "pageRondo2021": 98,
+            "pageRondo2024": 268,
+            "interpret": "G\u00f6l\u00e4",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Text: G\u00d6L\u00c4\nMusik: G\u00d6L\u00c4, URS RETO FREI, THOMAS J. GYGER, RENE MAURER, ZLATKO PERICA",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/WL9Q4oLUB2E"
+            }
+        },
+        {
+            "id": 82,
+            "title": "Sch\u00f6n war die Ritterszeit",
+            "pageRondoRed": 54,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 54,
+            "pageRondo2017": 54,
+            "pageRondo2021": 54,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "C",
+                "G7"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 228,
+            "title": "Scouting for boys",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 66,
+            "pageRondo2024": null,
+            "interpret": "Canto Scout Italiano (Lied aus Italien)",
+            "chords": [
+                "Am",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 181,
+            "title": "SCRIVIAMO SUI MURI",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 125,
+            "pageRondo2024": 309,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "Am",
+                "C",
+                "C7",
+                "E7",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Texte original de Jean-Marie P.M. Moreau\nMusique de Romano Musumarra\n\u00a9 2015 EMI Music Publishing France\nTous droits r\u00e9serv\u00e9s pour tous pays\nReproduit avec l\u2019aimable autorisation de Hal Leonard Europe BV (Italy)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=64u7c3SX8to"
+            }
+        },
+        {
+            "id": 120,
+            "title": "SIBE CHUGELRUNDI S\u00d6I",
+            "pageRondoRed": 32,
+            "pageRondoBlue": 108,
+            "pageRondoGreen": 32,
+            "pageRondo2017": 32,
+            "pageRondo2021": null,
+            "pageRondo2024": 32,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=j9963chszKA"
+            }
+        },
+        {
+            "id": 230,
+            "title": "SIFFERVISAN",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 80,
+            "pageRondo2024": null,
+            "interpret": "(Lied aus Finnland)",
+            "chords": [
+                "C",
+                "F",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=60AcSGTQYFE"
+            }
+        },
+        {
+            "id": 190,
+            "title": "SIFFLER SUR LA COLLINE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 86,
+            "pageRondo2024": 312,
+            "interpret": "Joe Dassin",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E7",
+                "F",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Texte original de Daniele Pace et Lorenzo Pilat\nMusique de Mario Panzeri et Lorenzo Pilat\nAdaptation du texte fran\u00e7ais par Jean-Michel Rivat et Frank Thomas\n\u00a9 1967-68 Sugarmusic SpA\nSous-\u00e9diteur: Edition Sugarmusic France Sarl\nTous droits r\u00e9serv\u00e9s pour tous pays\nReproduit avec l\u2019aimable autorisation de Hal Leonard Europe BV (Italy)",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/2fkWJmtQk8c"
+            }
+        },
+        {
+            "id": 121,
+            "title": "SINGING AYE AYE",
+            "pageRondoRed": 87,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 78,
+            "pageRondo2017": 78,
+            "pageRondo2021": null,
+            "pageRondo2024": 78,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 123,
+            "title": "SINGING IN THE RAIN",
+            "pageRondoRed": 230,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 230,
+            "pageRondo2017": 230,
+            "pageRondo2021": null,
+            "pageRondo2024": 230,
+            "interpret": "Gene Kelly",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words by Arthur Freed Music by Nacio Herb Brown \nCopyright \u00a9 1929 EMI Robbins Catalog Inc. \nAll Rights Administered by EMI United Partnership Ltd. International Copyright Secured All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=swloMVFALXw"
+            }
+        },
+        {
+            "id": 122,
+            "title": "SINGING IN THE RAIN VERSION 2",
+            "pageRondoRed": 231,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 231,
+            "pageRondo2017": 231,
+            "pageRondo2021": null,
+            "pageRondo2024": 231,
+            "interpret": "Gene Kelly",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "Music by NACIO HERB BROWN\nLyrics by ARTHUR FREED\n\u00a9 1929 METRO-GOLDWYN-MAYER INC.\nAll Rights Controlled by EMI ROBBINS CATALOGE INC. (Publishing) and ALFRED MUSIC PUBLISHING CO., INC. (Print)",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=1p1FfhSEP5s"
+            }
+        },
+        {
+            "id": 126,
+            "title": "S\u00d6LLE MER DE B\u00d6LLE",
+            "pageRondoRed": 25,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 25,
+            "pageRondo2017": 25,
+            "pageRondo2021": null,
+            "pageRondo2024": 25,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D",
+                "Em"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": null
+            }
+        },
+        {
+            "id": 175,
+            "title": "Spazzacamino",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 118,
+            "pageRondo2024": null,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "C",
+                "G"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 127,
+            "title": "STETS I TRUURE",
+            "pageRondoRed": 212,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 212,
+            "pageRondo2017": 212,
+            "pageRondo2021": null,
+            "pageRondo2024": 212,
+            "interpret": "",
+            "chords": [
+                "A",
+                "Asus4",
+                "D",
+                "Dm",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=o9IRxRWPeJA"
+            }
+        },
+        {
+            "id": 129,
+            "title": "SUR LE PONT D' AVIGNON",
+            "pageRondoRed": 192,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 192,
+            "pageRondo2017": 192,
+            "pageRondo2021": null,
+            "pageRondo2024": 192,
+            "interpret": "",
+            "chords": [
+                "Am",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=iLvVZny4HzQ"
+            }
+        },
+        {
+            "id": 131,
+            "title": "TAKE ME HOME COUNTRY ROADS",
+            "pageRondoRed": 170,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 170,
+            "pageRondo2017": 170,
+            "pageRondo2021": null,
+            "pageRondo2024": 170,
+            "interpret": "John Denver",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Denver, Bill Danoff and Taffy Nivert \nCopyright \u00a9 1971 BMG Ruby Songs and Reservoir Media Music \nCopyright Renewed All Rights for BMG Ruby Songs Administered by BMG Rights Management (US) LLC \nAll Rights for Reservoir Media Music Administered by Reservoir Media Management, Inc. All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/1vrEljMfXYo"
+            }
+        },
+        {
+            "id": 132,
+            "title": "TEARS IN HEAVEN",
+            "pageRondoRed": null,
+            "pageRondoBlue": 98,
+            "pageRondoGreen": 98,
+            "pageRondo2017": 98,
+            "pageRondo2021": null,
+            "pageRondo2024": 98,
+            "interpret": "Eric Clapton",
+            "chords": [
+                "A",
+                "A7",
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "Dm",
+                "Em7",
+                "F",
+                "Fis",
+                "G",
+                "H7",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Eric Clapton and Will Jennings\nCopyright \u00a9 1992 by E.C. Music Ltd. and Blue Sky Rider Songs All Rights for Blue Sky Rider Songs Administered by Irving Music, Inc. International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/VVqXLXMch9g?si=SFpkdFWsh_OyGI_e"
+            }
+        },
+        {
+            "id": 133,
+            "title": "THE BOXER",
+            "pageRondoRed": 164,
+            "pageRondoBlue": 140,
+            "pageRondoGreen": 164,
+            "pageRondo2017": 164,
+            "pageRondo2021": 162,
+            "pageRondo2024": 164,
+            "interpret": "Simon & Garfunkel",
+            "chords": [
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Paul Simon \nCopyright \u00a9 1968 Paul Simon (BMI) International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/l3LFML_pxlY"
+            }
+        },
+        {
+            "id": 134,
+            "title": "THE LION SLEEPS TONIGHT (WIMOWEH)",
+            "pageRondoRed": null,
+            "pageRondoBlue": 77,
+            "pageRondoGreen": 77,
+            "pageRondo2017": 77,
+            "pageRondo2021": null,
+            "pageRondo2024": 77,
+            "interpret": "",
+            "chords": [
+                "A",
+                "C",
+                "D7",
+                "E",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "New Lyrics and Revised Music by George David Weiss, Luigi Creatore and Hugo Peretti \nCopyright \u00a9 1961 Abilene Music, Luigi Creatore Music, HJP Music and Hugo Peretti Music Copyright Renewed All Rights for Abilene Music and Luigi Creatore Music Administered by Concord Sounds c\/o Concord Music Publishing All Rights for HJP Music and Hugo Peretti Music Administered by Steve Peter Music \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=OQlByoPdG6c"
+            }
+        },
+        {
+            "id": 135,
+            "title": "THE ROSE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 132,
+            "pageRondoGreen": 132,
+            "pageRondo2017": 132,
+            "pageRondo2021": null,
+            "pageRondo2024": 132,
+            "interpret": "",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Amanda McBroom\n\u00a9 1977 Third Story Music, Inc and Warner-Tamerlane Publishing Corp.\nWarner Chappell North America Ltd, London, W8 5DA\nReproduced by permission of Faber Music Ltd\nAll Rights Reserved.",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=zxSTzSEiZ2c"
+            }
+        },
+        {
+            "id": 163,
+            "title": "THE SOUND OF SILENCE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 162,
+            "pageRondo2021": null,
+            "pageRondo2024": 162,
+            "interpret": "Simon & Garfunkel",
+            "chords": [
+                "Am",
+                "Am7",
+                "C",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Paul Simon \nCopyright \u00a9 1964 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/l0q7MLPo-u8?si=9jWb3q4pSZE7SWmn"
+            }
+        },
+        {
+            "id": 128,
+            "title": "THE STREETS OF LONDON",
+            "pageRondoRed": 146,
+            "pageRondoBlue": 88,
+            "pageRondoGreen": 146,
+            "pageRondo2017": 146,
+            "pageRondo2021": 146,
+            "pageRondo2024": 146,
+            "interpret": "Ralph McTell",
+            "chords": [
+                "A",
+                "C",
+                "D",
+                "D7",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "THE STREETS OF LONDON (Ralph McTell)\n\u00a9 Westminster Music Ltd",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/DiWomXklfv8"
+            }
+        },
+        {
+            "id": 136,
+            "title": "THIS LAND IS YOUR LAND",
+            "pageRondoRed": 110,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 62,
+            "pageRondo2017": 62,
+            "pageRondo2021": null,
+            "pageRondo2024": 62,
+            "interpret": "Woodie Guthrie",
+            "chords": [
+                "C",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "THIS LAND IS YOUR LAND (Woody Guthrie) \n\u00a9 Ludlow Music Inc",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=wxiMrvDbq3s"
+            }
+        },
+        {
+            "id": 137,
+            "title": "\u00dcBER DEN WOLKEN",
+            "pageRondoRed": 218,
+            "pageRondoBlue": 64,
+            "pageRondoGreen": 218,
+            "pageRondo2017": 218,
+            "pageRondo2021": 148,
+            "pageRondo2024": 218,
+            "interpret": "Reinhard Mey",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Musik & Text: Reinhard Mey \u00a9 by edition reinhard mey GmbH",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/fZMFF8QH3ew"
+            }
+        },
+        {
+            "id": 173,
+            "title": "UN FAZZOLETTO AL COLLO",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 64,
+            "pageRondo2024": 64,
+            "interpret": "Canzone popolare",
+            "chords": [
+                "A7",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=xKR1SgZ6g4c"
+            }
+        },
+        {
+            "id": 164,
+            "title": "UP IN THE SKY",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 73,
+            "pageRondo2021": 73,
+            "pageRondo2024": 73,
+            "interpret": "77 Bombay Street",
+            "chords": [
+                "C",
+                "D",
+                "D-Fis",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Written by 77 Bombay Street, Thomas Fessler\nPerformed by 77 Bombay Street\nPublished by Capitano Music and Gadget Records AG \nCourtesy of 77 Bombay Street & Gadget Records",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=VzBQL5b36ww"
+            }
+        },
+        {
+            "id": 189,
+            "title": "URSULE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 119,
+            "pageRondo2024": 118,
+            "interpret": "",
+            "chords": [
+                "A",
+                "D"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=S1cye35TcQs"
+            }
+        },
+        {
+            "id": 138,
+            "title": "W. NUSS VO B\u00dcMPLIZ",
+            "pageRondoRed": null,
+            "pageRondoBlue": 56,
+            "pageRondoGreen": 58,
+            "pageRondo2017": 58,
+            "pageRondo2021": 58,
+            "pageRondo2024": 58,
+            "interpret": "Patent Ochsner",
+            "chords": [
+                "Ab",
+                "Am",
+                "B",
+                "C",
+                "Cm",
+                "Dm",
+                "Dm6",
+                "Dm7",
+                "Eb",
+                "Em",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "B\u00fcne Huber, Stellanera Bern",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/s7QJG-f9EYY"
+            }
+        },
+        {
+            "id": 140,
+            "title": "WENI MOL ALT BI",
+            "pageRondoRed": 84,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 84,
+            "pageRondo2017": 84,
+            "pageRondo2021": null,
+            "pageRondo2024": 84,
+            "interpret": "Franz Hohler",
+            "chords": [
+                "A7",
+                "Am",
+                "C",
+                "D",
+                "D7",
+                "D9",
+                "Ddim",
+                "E7",
+                "Em",
+                "G",
+                "G7",
+                "H"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Franz Hohler, aus LP \u201eI glaub jetz hock i ab\u201c CBS, 1974",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=ilRJhbNIthk"
+            }
+        },
+        {
+            "id": 142,
+            "title": "WHAT SHALL WE DO WITH THE DRUNKEN SAILOR",
+            "pageRondoRed": 24,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 24,
+            "pageRondo2017": 24,
+            "pageRondo2021": null,
+            "pageRondo2024": 24,
+            "interpret": "",
+            "chords": [
+                "D",
+                "Em"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=qGyPuey-1Jw"
+            }
+        },
+        {
+            "id": 49,
+            "title": "When I was a learner",
+            "pageRondoRed": 116,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 141,
+            "pageRondo2017": 184,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "Em",
+                "G",
+                "Hm"
+            ],
+            "alternative": true,
+            "free": true,
+            "license": ""
+        },
+        {
+            "id": 159,
+            "title": "WHEN I\u2019M SIXTY-FOUR",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "The Beatles",
+            "chords": [
+                "A7",
+                "Am",
+                "C",
+                "C7",
+                "D",
+                "Dm",
+                "E",
+                "F",
+                "Fm",
+                "G",
+                "G7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "When I'm Sixty-Four Words and Music by John Lennon and Paul McCartney Copyright \u00a9 1967 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured All Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/HCTunqv1Xt4?si=hxpk1T112wVOMzWj"
+            }
+        },
+        {
+            "id": 144,
+            "title": "WHERE HAVE ALL THE FLOWERS GONE",
+            "pageRondoRed": 157,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 157,
+            "pageRondo2017": 157,
+            "pageRondo2021": null,
+            "pageRondo2024": 156,
+            "interpret": "Pete Seeger",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "WHERE HAVE ALL THE FLOWERS GONE (Pete Seeger)\n\u00a9 Sanga Music Inc",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=bI3QVsW30j0"
+            }
+        },
+        {
+            "id": 146,
+            "title": "WIND OF CHANGE",
+            "pageRondoRed": null,
+            "pageRondoBlue": 44,
+            "pageRondoGreen": 44,
+            "pageRondo2017": 44,
+            "pageRondo2021": 44,
+            "pageRondo2024": 44,
+            "interpret": "Scorpions",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "E",
+                "F",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words & Music by Klaus Meine \n\u00a9 1990 BMG Rights Management GmbH \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=n4RjJKxsamQ"
+            }
+        },
+        {
+            "id": 148,
+            "title": "WISH YOU WERE HERE",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 268,
+            "pageRondo2017": 268,
+            "pageRondo2021": null,
+            "pageRondo2024": 266,
+            "interpret": "Leskela",
+            "chords": [
+                "A",
+                "Am",
+                "B",
+                "C",
+                "Dm",
+                "Dm7",
+                "E",
+                "E7",
+                "Esus4",
+                "F",
+                "G",
+                "H7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Teijo Leskela \nCopyright \u00a9 1995 Published by Concord Copyrights London Limited \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=6FwmM93jgUo"
+            }
+        },
+        {
+            "id": 149,
+            "title": "WITH A LITTLE HELP FROM MY FRIENDS",
+            "pageRondoRed": 190,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 190,
+            "pageRondo2017": 190,
+            "pageRondo2021": null,
+            "pageRondo2024": 190,
+            "interpret": "John Lennon \/ Paul McCartney",
+            "chords": [
+                "A",
+                "A7",
+                "C",
+                "D",
+                "E7",
+                "Em",
+                "G",
+                "Hm",
+                "Hm7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1967 Sony Music Publishing (US) LLC Copyright Renewed \nAll Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/youtu.be\/0C58ttB2-Qg?si=WG8uQu8lcKSjTNJP"
+            }
+        },
+        {
+            "id": 68,
+            "title": "Wo wir uns finden",
+            "pageRondoRed": 126,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 124,
+            "pageRondo2017": 124,
+            "pageRondo2021": 124,
+            "pageRondo2024": null,
+            "interpret": "Anton Wilhelm von Zuccalmaglio",
+            "chords": [
+                "E",
+                "H7"
+            ],
+            "alternative": true,
+            "free": false,
+            "license": "Jegliche ungenehmigte Nutzung bzw. Vervielf\u00e4ltigung ist gesetzlich untersagt. Alle Rechte vorbehalten.\n\u00a9 -2022- Tonos Music Publishing oHG, Baden-Baden, Deutschland"
+        },
+        {
+            "id": 150,
+            "title": "WONDERFUL TONIGHT",
+            "pageRondoRed": 244,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 244,
+            "pageRondo2017": 246,
+            "pageRondo2021": null,
+            "pageRondo2024": 246,
+            "interpret": "Eric Clapton",
+            "chords": [
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Eric Clapton \nCopyright \u00a9 1977 by Eric Patrick Clapton Copyright Renewed International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=Pu5c4aEg3NM"
+            }
+        },
+        {
+            "id": 151,
+            "title": "WONDERWALL",
+            "pageRondoRed": null,
+            "pageRondoBlue": 114,
+            "pageRondoGreen": 114,
+            "pageRondo2017": 114,
+            "pageRondo2021": null,
+            "pageRondo2024": 114,
+            "interpret": "Oasis",
+            "chords": [
+                "A7",
+                "C",
+                "Cmaj7",
+                "D",
+                "Dsus4",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by Noel Gallagher \nCopyright \u00a9 1995 SM Music Publishing UK Limited and Oasis Music All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=bx1Bh8ZvH84"
+            }
+        },
+        {
+            "id": 152,
+            "title": "YELLOW SUBMARINE",
+            "pageRondoRed": 20,
+            "pageRondoBlue": 102,
+            "pageRondoGreen": 20,
+            "pageRondo2017": 20,
+            "pageRondo2021": null,
+            "pageRondo2024": 20,
+            "interpret": "The Beatles",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "Em",
+                "G"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1966 Sony Music Publishing (US) LLC Copyright Renewed All Rights Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=m2uTFF_3MaA"
+            }
+        },
+        {
+            "id": 153,
+            "title": "YESTERDAY",
+            "pageRondoRed": 178,
+            "pageRondoBlue": 76,
+            "pageRondoGreen": 178,
+            "pageRondo2017": 178,
+            "pageRondo2021": null,
+            "pageRondo2024": 178,
+            "interpret": "The Beatles",
+            "chords": [
+                "Am",
+                "C",
+                "D7",
+                "Dm6",
+                "E7",
+                "Esus4",
+                "F",
+                "G",
+                "G7",
+                "Hm7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "Words and Music by John Lennon and Paul McCartney \nCopyright \u00a9 1965 Sony Music Publishing (US) LLC and MPL Communications, Inc. in the United States Copyright Renewed All Rights for the world excluding the United States Administered by Sony Music Publishing (US) LLC, 424 Church Street, Suite 1200, Nashville, TN 37219 International Copyright Secured \nAll Rights Reserved Used by permission of Hal Leonard Europe Limited",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=NrgmdOz227I"
+            }
+        },
+        {
+            "id": 154,
+            "title": "ZOG\u00c4-N-AM BOG\u00c4",
+            "pageRondoRed": 49,
+            "pageRondoBlue": null,
+            "pageRondoGreen": 49,
+            "pageRondo2017": 49,
+            "pageRondo2021": null,
+            "pageRondo2024": null,
+            "interpret": "",
+            "chords": [
+                "A",
+                "A7",
+                "D",
+                "G"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=UfGRl-pvoyw"
+            }
+        },
+        {
+            "id": 165,
+            "title": "ZWEI CHLINI W\u00d6LF",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": 8,
+            "pageRondo2021": 16,
+            "pageRondo2024": 8,
+            "interpret": "Kinderlied",
+            "chords": [
+                "Am",
+                "C",
+                "Dm",
+                "G7"
+            ],
+            "alternative": false,
+            "free": true,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=yW5J3hp4lFE"
+            }
+        },
+        {
+            "id": 232,
+            "title": "\u0160UMA JE IZVI\u0110A\u010cU DRUG",
+            "pageRondoRed": null,
+            "pageRondoBlue": null,
+            "pageRondoGreen": null,
+            "pageRondo2017": null,
+            "pageRondo2021": 77,
+            "pageRondo2024": null,
+            "interpret": "Lutaju\u0107a srca (Lied aus Serbien)",
+            "chords": [
+                "Am",
+                "C",
+                "D",
+                "E",
+                "Em",
+                "Hm7"
+            ],
+            "alternative": false,
+            "free": false,
+            "license": "",
+            "links": {
+                "youtube": "https:\/\/www.youtube.com\/watch?v=J-o9JciNoEc"
+            }
+        }
+    ]
+}
