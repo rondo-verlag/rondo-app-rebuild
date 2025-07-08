@@ -3,7 +3,7 @@ import { GetResult, Preferences } from "@capacitor/preferences";
 
 const state = reactive({
     hasBought: false,
-    setHasBougth: (value: boolean) => {
+    setHasBought: (value: boolean) => {
         state.hasBought = value
         Preferences.set({ key: 'hasBought', value: value ? 'true' : 'false' })
     },
