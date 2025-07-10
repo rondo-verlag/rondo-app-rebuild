@@ -69,7 +69,7 @@ class purchaseService {
         // Try restoring first
         this.restore()
 
-        if (AppState.hasBought !== true) {
+        if (!AppState.hasBought) {
             const offer = this.store.get(PRODUCT_ID)?.getOffer();
             if (offer) {
                 this.store.order(offer).then(() => {
