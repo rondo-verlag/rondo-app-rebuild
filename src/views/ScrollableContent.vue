@@ -4,8 +4,17 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script lang="ts">
+import { defineComponent } from "vue"
 
+export default defineComponent({
+  name: 'ScrollableContent',
+  data() {
+    return {
+      lastScrollPosition: -1
+    }
+  },
+})
 </script>
 
 <style scoped>
